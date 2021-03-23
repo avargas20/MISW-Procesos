@@ -1,5 +1,5 @@
 
-## Semana 6 - Planeación del sprint
+## Semana 6 - Planeación del sprint 2
 
 ### Objetivos
 
@@ -19,17 +19,16 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Detalle de HU:
-  * Finalizar el detalle de las HU del PBL
   * Detallar las solicitudes de mejora realizadas durante la desmostración (si aplica)
-* Estimación y cálculo de velocidad:
+  * Finalizar el detalle de las HU del PBL
+* Estimación y cálculo de velocidad (todo el equipo):
   * Revisar y definir las actividades de la HU base teniendo en cuenta la experiencia del sprint anterior y las decisiones tomadas en las retrospectiva
   * Estimar los tiempos de las actividades de la HU base
   * Estimar las HU del PBL en PHU
   * Realizar el cálculo de la velocidad del equipo
   * Cargar el calculo de velocidad y estimación de las HU en **_Nombre de la herramienta_**
-* Definir el alcance del sprint de acuerdo al cálculo de velocidad del equipo
-* Planeación detallada:
-  * Todos los miembros del equipo deben participar en la planeación detallada del Sprint
+* Junto con el PO, definir el alcance del sprint de acuerdo al cálculo de velocidad del equipo
+* Planeación detallada (todo el equipo):
   * El equipo de desarrollo debe identificar las actividades necesarias para completar cada una de las HU del sprint y su tiempo estimado
   * Cargar esta información en **_Nombre de la herramienta_** y dar inicio al sprint
 
@@ -42,7 +41,8 @@
 
 ---
 * El formato de cálculo de la velocidad esta disponible en **_Nombre de la herramienta_**
-* Las historias de usuario del PBL han sido estidamadas mediante puntos de historia de usuario
-* Todas las historias de usuario del sprint cuentan con:
- * Descripción, criterios de aceptación y mockup
- * Definición de sub-tareas y tiempos estimado de desarrollo
+* Se evidencia **_Nombre de la herramienta_** que:
+  * Las HU del PBL han sido estidamadas mediante PHU
+  * Todas las HU del sprint cuentan con:
+    * Descripción, criterios de aceptación y mockup
+    * Definición de sub-tareas y tiempo estimado
