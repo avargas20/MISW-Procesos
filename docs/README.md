@@ -1,6 +1,8 @@
-Bienvenidos a la página con las guías para el desarrollo del proyecto del curso.
+Bienvenidos.
 
-El material está organizado semana a semana, junto con una sección de generalidades.
+En esta página encuentran las guías de actvidades para el desarrollo del proyecto del curso.
+
+El material está organizado semana a semana y en la sección generalidades encuentran el enunciado y la descripción general del proyecto. 
 
 [Generalidades](https://avargas20.github.io/MISW-Procesos/generalidades)
 1. [Semana 1 - Introducción](https://avargas20.github.io/MISW-Procesos/semanas/semana1/semana1)
