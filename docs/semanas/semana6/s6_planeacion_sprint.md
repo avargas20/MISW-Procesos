@@ -40,9 +40,8 @@
 ### Criterios de evaluación
 
 ---
-* El formato de cálculo de la velocidad esta disponible en **_Nombre de la herramienta_**
-* Se evidencia **_Nombre de la herramienta_** que:
-  * Las HU del PBL han sido estidamadas mediante PHU
-  * Todas las HU del sprint cuentan con:
-    * Descripción, criterios de aceptación y mockup
-    * Definición de sub-tareas y tiempo estimado
+* El formato de cálculo de la velocidad del equipo esta disponible en **_Nombre de la herramienta_**
+* Las HU del PBL han sido estidamadas mediante PHU
+* Todas las HU del sprint cuentan con:
+  * Descripción, criterios de aceptación y mockup
+  * Definición de sub-tareas y tiempo estimado
