@@ -7,7 +7,7 @@
 * Utilizar el flujo de trabajo definido en la Semana 3 para el desarrollo de las Historias de Usuario
 * Utilizar la práctica de TDD para implementar las Historias de Usuario del proyecto
 * Utilizar pair programming en las historias que el equipo considere críticas
-* Realizar las pruebas unitarias del proyecto utilizando librerías para generación de datos automática
+* Realizar las pruebas unitarias del proyecto utilizando librerías para generación aleatoria de datos
 
 
 ### Descripción actividad
@@ -19,7 +19,7 @@
 * Desarrollar cada una de las historias a su cargo implementando TDD y pair programming (en las HU más complejas)
   * Para dejar evidencia del uso de TDD, se debe realizar commit al repositorio al definir las pruebas, al implementar el código y al realizar recfactoring del código 
   * Implementar la generación de datos aleatorios en las pruebas unitarias
-* Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio GitHub del equipo de acuerdo con el flujo de trabajo definido
+* Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido
 
 
 ### Entregables
