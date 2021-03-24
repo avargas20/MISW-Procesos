@@ -23,8 +23,8 @@
   * Finalizar el detalle de las HU del PBL
 * Estimación y cálculo de velocidad (todo el equipo):
   * Revisar y definir las actividades de la HU base teniendo en cuenta la experiencia del sprint anterior y las decisiones tomadas en las retrospectiva
-  * Estimar los tiempos de las actividades de la HU base
   * Estimar las HU del PBL en PHU
+  * Estimar los tiempos de las actividades de la HU base
   * Realizar el cálculo de la velocidad del equipo
   * Cargar el calculo de velocidad y estimación de las HU en **_Nombre de la herramienta_**
 * Junto con el PO, definir el alcance del sprint de acuerdo al cálculo de velocidad del equipo
