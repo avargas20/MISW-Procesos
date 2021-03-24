@@ -4,7 +4,7 @@
 ### Objetivos
 
 ---
-* Revisar las lecciones aprendidas durante el sprint en las dimensiones de equipo, proceso y producto
+* Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo, proceso y producto
 
 
 ### Descripción actividad
