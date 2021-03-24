@@ -1,5 +1,5 @@
 
-## Semana 4 - Planeación del sprint
+## Semana 4 - Planeación detallada del sprint
 
 ### Objetivos
 
