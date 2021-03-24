@@ -4,7 +4,7 @@
 Los objetivos de la semana 4 son:
 
 1. Realizar la planeación del sprint
-2. Iniciar el primer sprint de desarrollo teniendo en cuenta las prácticas vistas en el curso Prácticas Esenciales de Agilismo
+2. Iniciar el primer sprint de desarrollo teniendo en cuenta las prácticas vistas en cursos anteriores
 3. Hacer seguimiento al avance de actividades del sprint mediante Daily meetings y tableros Kanban
  
 ### Resumen de las actividades
