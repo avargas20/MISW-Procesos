@@ -5,7 +5,7 @@
 Los objetivos de la semana 6 son:
 
 * Realizar la planeación del sprint
-* Iniciar el segundo sprint de desarrollo teniendo en cuenta las prácticas vistas en el curso Prácticas Esenciales de Agilismo
+* Iniciar el segundo sprint de desarrollo teniendo en cuenta las prácticas vistas en cursos anteriores
 * Hacer seguimiento al avance de actividades del sprint mediante Daily meetings y tableros Kanban
  
 ### Resumen de las actividades
