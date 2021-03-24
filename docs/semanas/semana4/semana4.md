@@ -11,6 +11,6 @@ Los objetivos de la semana 4 son:
 
 | Actividades   |
 |---------------|
-|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_planeacion_sprint)  |
+|[Planeación detallada del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_planeacion_sprint)  |
 |[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_desarrollo)|
 |[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_seguimiento)|
