@@ -7,7 +7,7 @@
 * Utilizar el flujo de trabajo definido en la Semana 3 para el desarrollo de las Historias de Usuario del sprint
 * Utilizar la práctica de TDD para implementar las Historias de Usuario del proyecto
 * Utilizar pair programming en las historias que el equipo considere críticas
-* Realizar las pruebas unitarias del proyecto utilizando librerías para generación de datos automática
+* Realizar las pruebas unitarias del proyecto utilizando librerías para generación aleatoria de datos
 * Verficar la calidad de código del proyecto mediante el uso de la herramienta **_Nombre de la herramienta para análisis de código (CodeQL)_**
 
 
