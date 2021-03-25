@@ -18,7 +18,7 @@
 
 ---
 * [Formato Canvas de equipo](https://miro.com/app/board/o9J_lQEeUlQ=/)
-* Formato Matriz de competencias de equipo *(Por definir competencias para el proyecto)*
+* Formato Matriz de competencias de equipo **(Por definir competencias para el proyecto)**
 
 ### Entregables
 
