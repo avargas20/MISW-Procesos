@@ -18,7 +18,6 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-Durante esta semana los miembros del equipo deben realizar las siguientes actividades:
 * Detalle de historias de usuario
   * Detallar las solicitudes de mejora realizadas durante la desmostración y finalizar el detalle de las HU del PBL (si aplica)
 * Estimación y cálculo de velocidad
