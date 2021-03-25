@@ -30,5 +30,5 @@
 
 ---
 * El canvas de equipo permite identificar los acuerdos del equipo para el logro de un proposito común
-* La matriz de competencias contiene la información de Todos los integrantes del equipo
+* La matriz de competencias contiene la información de todos los integrantes del equipo
 
