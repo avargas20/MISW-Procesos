@@ -6,7 +6,7 @@ Los objetivos de la semana 3 son:
 
 1. Realizar el alistamiento del ambiente de desarrollo
 2. Identificar la estrategia de arquitectura
-3. Definir una estrategia inicial de pruebas
+3. Definir una estrategia inicial de pruebas para la solución
 4. Detallar las historias de usuario con mayor prioridad en el PBL
 5. Realizar la estimación y planeación del proyecto utilizando las técnicas estudiadas
 6. Identificar los principales riesgos del proyecto y sus correspondientes acciones de contención y mitigación 
