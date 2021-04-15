@@ -4,7 +4,7 @@
 ### Objetivos
 
 ---
-* Explorar el alcance mediante la construcción del Visual Story Map de la solución
+* Explorar el alcance mediante la construcción del Visual Story Map (VSM) de la solución
 
 ### Pasos previos
 
