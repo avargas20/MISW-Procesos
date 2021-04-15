@@ -43,5 +43,5 @@
 
 ---
 
-* El VSM contempla la identificación de usuarios, épicas, historias de usuario y releases del producto
+* El VSM contempla la identificación de usuarios, épicas, historias de usuario y planes de lanzamiento del producto
 * El listado de historias de usuario se encuentra priorizado de acuerdo con reunión de priorización con PO
