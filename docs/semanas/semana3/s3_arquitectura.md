@@ -1,5 +1,5 @@
 
-## Semana 3 - Diseño de la arquitectura del producto
+## Semana 3 - Estrategia de arquitectura
 
 ### Objetivos
 
@@ -13,10 +13,11 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Realizar el diseño de la arquitectura del proyecto teniendo en cuenta la estructura del documento disponible en Recursos. Como mínimo se espera:
-   * Un diagrama de dominio del proyecto
+* Realizar el diseño de la arquitectura de la solución teniendo en cuenta la estructura del documento disponible en Recursos. Como mínimo se espera:
+   * Un diagrama de contexto
    * Un diagrama de componentes donde represente el stack tecnológico utilizado
-   * Un diagrama de navegación de interfaces
+   * Un diagrama de clases
+   * Un diagrama de despliegue
 
 * Cargar el documento de arquitectura en **_Nombre de la herramienta_**
 
