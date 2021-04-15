@@ -38,3 +38,4 @@
 * Todas las pruebas unitarias funcionan correctamente
 * Se evidencia en el historial del respositorio el desarrollo usando TDD
 * El resultado de la integración continua es exitoso
+* Se evidencian los resultados de la ejecución de la estrategia de pruebas
