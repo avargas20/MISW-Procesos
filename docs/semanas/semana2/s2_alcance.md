@@ -30,7 +30,7 @@
 ### Recursos 
 
 ---
-* Entrevista con Product Owner *(Pendiente crear script para grabación de acuerdo con tema seleccionado)*
+* Entrevista con los interesados del proyecto *(Pendiente crear script para grabación de acuerdo con tema seleccionado)*
 * [Plantilla VSM](https://miro.com/app/board/o9J_lQLM1Us=/)
 
 ### Entregables
