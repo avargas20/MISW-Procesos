@@ -1,5 +1,5 @@
 
-## Semana 1 - Generando acuerdos de equipo
+## Semana 1 - Formar equipo
 
 ### Objetivos
 
