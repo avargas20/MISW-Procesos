@@ -24,12 +24,13 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Ejecutar la estrategia de pruebas
-* Documentar y gestionar los errores encontrados utilizando el Kanban e Issues de GitHub
+* Documentar y gestionar los errores encontrados en **__Nombre de la herramienta__**
 
 ### Entregables
 
 ---
 * URL del repositorio del equipo en GitHub
+* URL del espacio del equipo en **__Nombre de la herramienta__**
 
 
 ### Criterios de evaluación
@@ -38,4 +39,4 @@
 * Todas las pruebas unitarias funcionan correctamente
 * Se evidencia en el historial del respositorio el desarrollo usando TDD
 * El resultado de la integración continua es exitoso
-* Se evidencian los resultados de la ejecución de la estrategia de pruebas
+* Se evidencia en **__Nombre de la herramienta__** el resultado de la ejecución de la estrategia de pruebas y la gestión de las incidencias
