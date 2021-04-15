@@ -9,7 +9,7 @@
 
 ### Pasos previos
 
-Verificar el acceso de cada uno de los integrantes al repositorio asignado al equipo
+Verificar el acceso de cada uno de los integrantes del equipo al repositorio asignado
 
 ### Descripción actividad
 
