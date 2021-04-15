@@ -4,7 +4,7 @@
 ### Objetivos
 
 ---
-* Proponer la estrategia inicial de pruebas para la solución
+* Proponer la estrategia inicial de pruebas para la solución teniendo en cuenta los conceptos vistos en cursos anteriores
 
 
 ### Descripción actividad
