@@ -14,9 +14,12 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Realizar la instalación y configuración del ambiente de desarrollo de acuerdo con las instrucciones proporcionadas
+
+#### ![](./../../assets/images/grupo.png) Actividad grupal
+
 * Acordar el flujo de trabajo que se seguirá para la implementación y consignar el acuerdo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html)
 * Documentar los acuerdos en **_Nombre de la herramienta_**
 
