@@ -1,27 +1,27 @@
 
-## Semana 2 - Visión de producto
+## Semana 2 - Explorar el alcance
 
 ### Objetivos
 
 ---
-* Construir la visión de producto utilizando la técnica de Visual Story Mapping
+* Explorar el alcance mediante la construcción del Visual Story Map de la solución
 
 ### Pasos previos
 
 ---
-* Escuche con atención la entrevista con el Product Owner(PO) y tome atenta nota
-* Si surgen preguntas o requieren aclaraciones del PO, escriban en el foro de **Preguntas al cliente**
+* Escuche con atención la entrevista con los interesados del proyecto (stackeholders) y tome atenta nota
+* Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**
 
 ### Descripción actividad
 
 ---
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* De forma individual realice la primera versión del VSM y PBL del proyecto
+* Realice la primera versión del VSM
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL del proyecto
+* Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL de la solución
 * El PO de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario
 * El resto de los integrantes del equipo debe realizar el ejercicio de slicing sobre las HU que tienen
 * De acuerdo a la reunión de priorización ajustar el VSM y definir el listado inicial de HU priorizado
@@ -43,5 +43,5 @@
 
 ---
 
-* El VSM contempla la identificación de usuarios, épicas o actividades generales, historias de usuario y releases del producto
+* El VSM contempla la identificación de usuarios, épicas, historias de usuario y releases del producto
 * El listado de historias de usuario se encuentra priorizado de acuerdo con reunión de priorización con PO
