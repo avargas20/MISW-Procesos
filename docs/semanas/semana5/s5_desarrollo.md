@@ -21,6 +21,10 @@
   * Implementar la generación de datos aleatorios en las pruebas unitarias
 * Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio GitHub del equipo de acuerdo con el flujo de trabajo definido
 
+#### ![](./../../assets/images/grupo.png) Actividad grupal
+
+* Ejecutar la estrategia de pruebas
+* Documentar y gestionar los errores encontrados utilizando el Kanban e Issues de GitHub
 
 ### Entregables
 
