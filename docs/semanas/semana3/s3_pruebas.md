@@ -4,7 +4,7 @@
 ### Objetivos
 
 ---
-* Proponer la estrategia inicial de pruebas para el proyecto
+* Proponer la estrategia inicial de pruebas para la solución
 
 
 ### Descripción actividad
