@@ -17,7 +17,7 @@
 ---
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Realice la primera versión del VSM
+* Realice una propuesta individual del VSM de la solución
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
