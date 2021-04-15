@@ -4,7 +4,7 @@
 
 Los objetivos de la semana 2 son:
 
-1. Construir la visión de producto utilizando las técnicas estudiadas
+1. Explorar el alcance mediante la construcción del Visual Story Map de la solución
 2. Realizar el alistamiento del espacio para la gestión y documentación del proyecto
  
 ### Resumen de las actividades
@@ -12,5 +12,5 @@ Los objetivos de la semana 2 son:
 | Actividades   |
 |---------------|
 | Presentación general del proyecto *(Pendiente definir el enunciado del proyecto)* |
-| [Visión del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_vision_producto)|
+| [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_vision_producto)|
 | [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)|
