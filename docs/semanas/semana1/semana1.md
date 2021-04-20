@@ -16,15 +16,19 @@ Su amigo emprendedor vio su solución y le propuso convertirla en una aplicació
 
 ### Acercamiento al marco
 
-El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada una de las fases del Inception. En el marco del proyecto del curso se han tenido en cuenta las siguientes características para la conformación de los equipos:
+El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos del Inception. En el marco del proyecto del curso se han tenido en cuenta las siguientes características para la conformación de los equipos:
 
-* Equipos nuevos cuyos integrantes probablemente no han trabajado juntos en proyectos anteriores
-* Equipos pequeños de máximo 4 personas
-* Equipos cuyos integrantes cuentan con habilidades generalistas y especialistas
-* Equipos conformados con la única finalidad de evolucionar un producto de software existente
-* Equipos con miembros distribuidos geográficamente y probablemente con distintas zonas horarias
-* Equipos orientados por un profesor y un tutor
-* Equipos con dedicación parcial de tiempo (12 horas por semana)
+| Elemento                                  | Característica                                             | Descripción                                                                                                                                            |
+|-------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Origen de los miembros del equipo         | Equipo nuevo                                               | Los integrantes probablemente no han trabajado juntos en proyectos anteriores                                                                          |
+| Tamaño del equipo                         | Equipo pequeño                                             | Máximo 4 personas                                                                                                                                      |
+| Estructura del equipo                     | Un sólo equipo                                             | Cada equipo aborda por separado el desarrollo e implementación de la solución                                                                          |
+| Habilidades de los miembros del equipo    | Generalistas y especialistas                               | Se espera que los miembros del equipo cuenten con distintas habilidades para complementarse                                                            |
+| Longevidad del equipo                     | Durante el proyecto                                        | 8 semanas de acuerdo con la duración del curso                                                                                                         |
+| Distribución geográfica                   | Miembros totalmente distribuidos/ Múltiples zonas horarias | Dada la naturaleza del curso es muy probable que los miembros del equipo se encuentren distribuidos geográficamente y tengan diferentes zonas horarias |
+| Orientación del equipo                    | Mentoria                                                   | Los equipos serán orientados por un profesor y un tutor                                                                                                |
+| Disponibilidad de los miembros del equipo | Tiempo parcial                                             | 12 horas por semana de acuerdo el plan de estudios                                                                                                     |
+*Estas características varian dependiendo de la organización o contexto del problema
 
 ### Resumen de las actividades
 
