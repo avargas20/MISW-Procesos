@@ -11,6 +11,26 @@ Los objetivos de la semana 3 son:
 5. Realizar la estimación y planeación del proyecto utilizando las técnicas estudiadas
 6. Identificar los principales riesgos del proyecto y sus correspondientes acciones de contención y mitigación 
  
+### Acercamiento al marco
+
+Como hemos visto en semanas anteriores, el marco DAD favorece la adaptabilidad de acuerdo con las características de la organización y contexto del problema. La siguiente tabla muestra el enfoque dado en el curso para la consecución de los objetivos del Inception de acuerdo con las actividades y prácticas propuestas.
+
+| Objetivo                                  | Actividad                                        | Práctica                                                    |
+|-------------------------------------------|--------------------------------------------------|-------------------------------------------------------------|
+| Identificar la estrategia de arquitectura | Definir una estrategia de entrega                | Ampliar la solución existente                               |
+|                                           | Seleccionar una estrategia de arquitectura       | Arquitectura existente / Una sola propuesta de arquitectura |
+|                                           | Modelar la arquitectura tecnológica              | Diagrama de stack tecnológico                               |
+|                                           | Modelar la arquitectura de negocio               | Modelo conceptual /dominio                                  |
+|                                           | Modelar la arquitectura de interfaces de usuario | Diagrama de flujo de interfaces de usuario                  |
+|                                           | Investigar sobre activos heredados               | Analizar fuentes de datos / Leer la documentación existente |
+|                                           | Nivel de detalle del documento de arqutectura    | Alto nivel                                                  |
+| Planeación de lanzamientos                | Fuente del plan de lanzamiento                   | La parte interesada                                         |
+|                                           | Alcance                                          | Release                                                     |
+|                                           | Estrategia de estimación                         | Planning poker                                              |
+|                                           | Escoger una unidad de estimación                 | Puntos de historia de usuario                               |
+|                                           | Capturar el plan                                 | Burndown chart                                              |
+
+
 ### Resumen de las actividades
 
 | Actividades   |
