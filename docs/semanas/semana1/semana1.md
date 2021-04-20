@@ -10,20 +10,21 @@ Los objetivos de la semana 1 son:
 
 ### Contexto del proyecto
 
-Lorenzo es un melómano y un coleccionista de música que ha pasado toda su vida coleccionando álbumes musicales y tiene tantos, que tiene problemas para recordar en cuál álbum puede encontrar una canción que quiere escuchar. Para solucionar este problema creó un sistema para almacenar la información de su colección y tener dónde buscar de manera más fácil las canciones. Su amigo emprendedor vio su solución y le propuso convertirla en una aplicación comercial para el almacenamiento de información musical aplicando a una convocatoria para adquirir recursos, esto implica evolucionar la aplicación actual para convertirla en un MVP usable y escalable a muchos usuarios. Para esto, Lorenzo ha decidido  Es por esto que 
+Lorenzo es un melómano y coleccionista de música que ha pasado toda su vida coleccionando álbumes musicales. Creó un sistema para almacenar la información de su colección y tener dónde buscar de manera fácil sus canciones pues tenia problemas para recordar en cuál álbum encontrar una canción que queria escuchar.
+
+Su amigo emprendedor vio su solución y le propuso convertirla en una aplicación comercial para el almacenamiento de información musical aplicando a una convocatoria para adquirir recursos, esto implica evolucionar la aplicación actual para convertirla en un MVP usable y escalable a muchos usuarios. Es por esto que Lorenzo ha decidido contactar a la universidad, con el fin de conseguir un equipo que le ayude a mejorar su aplicación y cautivar a los inversionistas.
 
 ### Acercamiento al marco
 
-El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada una de las fases del Inception. Es por esto que la conformación del equipo en el marco del proyecto del curso tiene en cuenta las siguientes caracteristicas
+El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada una de las fases del Inception. En el marco del proyecto del curso se han tenido en cuenta las siguientes características para la conformación de los equipos:
 
-* Un equipo nuevo, cuyos integrantes probablemente no han trabajado juntos en proyectos anteriores
-* Un equipo pequeño de máximo 4 personas
-* Un equipo con habilidades generalistas y especialistas
-* Un equipo conformado para desarrollar el proyecto del curso
-* Un equipo con miembros distribuidos geográficamente y probablemente con distintas zonas horarias
-* Un equipo soportado con por un profesor y un tutor
-* Un equipo con dedicación parcial de tiempo
-
+* Equipos nuevos cuyos integrantes probablemente no han trabajado juntos en proyectos anteriores
+* Equipos pequeños de máximo 4 personas
+* Equipos cuyos integrantes cuentan con habilidades generalistas y especialistas
+* Equipos conformados con la única finalidad de evolucionar un producto de software existente
+* Equipos con miembros distribuidos geográficamente y probablemente con distintas zonas horarias
+* Equipos orientados por un profesor y un tutor
+* Equipos con dedicación parcial de tiempo (12 horas por semana)
 
 ### Resumen de las actividades
 
