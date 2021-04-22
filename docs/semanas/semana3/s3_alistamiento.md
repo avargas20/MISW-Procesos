@@ -21,7 +21,7 @@ Verificar el acceso de cada uno de los integrantes del equipo al repositorio asi
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Acordar el flujo de trabajo que se seguirá para la implementación y consignar el acuerdo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html)
-* Documentar los acuerdos en **_Nombre de la herramienta_**
+* Documentar los acuerdos en Confluence
 
 
 ### Recursos 
@@ -34,7 +34,7 @@ Verificar el acceso de cada uno de los integrantes del equipo al repositorio asi
 ### Entregables 
 
 ---
-* URL al espacio del equipo en **_Nombre de la herramienta_**
+* URL al espacio del equipo en Jira/Confluence
 * URL al repositorio en GitHub
 
 ### Criterios de evaluación
