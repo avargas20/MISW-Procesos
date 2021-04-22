@@ -19,10 +19,10 @@
    * Tener en cuenta los criterios del equipo para la [definición de terminado (DoD)](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_DoD)
 * Estimar todo el PBL
    * Dada la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de Planning Poker
-   * Registrar el resultado de la estimación en el PBL en **_Nombre de la herramienta_**
+   * Registrar el resultado de la estimación en el PBL en Jira
 * Cálculo de la velocidad del equipo
    * Utilizando la técnica de Planning Poker estimar en horas las actividades para desarrollar la HU base (se deben tener en cuenta todas las actividades)
-   * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en **_Nombre de la herramienta_**
+   * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en Confluence
 * Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance de cada sprint
    * Proponer un listado de historias de usuario candidatas para ser incluidas en el primer sprint
 
@@ -39,9 +39,9 @@
 ---
 * Cálculo de velocidad del equipo
 * Listado de HU propuestas para el primer Sprint
-* URL al espacio del equipo en **_Nombre de la herramienta_**
+* URL al espacio del equipo en Jira/Confluence
 
 ### Criterios de evaluación
 
 ---
-* En **_Nombre de la herramienta_** se evidencia la creación del primer sprint con las historias de usuario propuestas y el formato para cálculo de la velocidad del equipo
+* En Jira se evidencia la creación del primer sprint con las historias de usuario propuestas y el formato para cálculo de la velocidad del equipo
