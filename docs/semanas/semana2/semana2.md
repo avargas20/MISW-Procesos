@@ -6,7 +6,7 @@
 Los objetivos de la semana 2 son:
 
 1. Explorar el alcance mediante la construcción del Visual Story Map de la solución
-2. Realizar el alistamiento del espacio para la gestión y documentación del proyecto
+2. Realizar el alistamiento del espacio para la gestión y documentación del proyecto en Jira/Confluence
 
 ### Acercamiento al marco
 ---
