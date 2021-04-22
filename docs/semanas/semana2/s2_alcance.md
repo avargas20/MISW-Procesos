@@ -9,7 +9,7 @@
 ### Pasos previos
 
 ---
-* Escuche con atención la entrevista con los interesados del proyecto (stackeholders) y tome atenta nota
+* Escuche con atención la entrevista con los interesados del proyecto (Stakeholders) y tome atenta nota
 * Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**
 
 ### Descripción actividad
@@ -23,14 +23,14 @@
 
 * Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL de la solución
 * El PO de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario
-* El resto de los integrantes del equipo debe realizar el ejercicio de slicing sobre las HU que tienen
+* El resto de los integrantes del equipo debe realizar el ejercicio de slicing **(Pendiente)** sobre las HU que tienen
 * De acuerdo a la reunión de priorización ajustar el VSM y definir el listado inicial de HU priorizado
-
+* Cargar el PBL en Jira y el VSM en Confluence
 
 ### Recursos 
 
 ---
-* Entrevista con los interesados del proyecto *(Pendiente crear script para grabación de acuerdo con tema seleccionado)*
+* Entrevista con los interesados del proyecto *(Pendiente crear script para grabación)*
 * [Plantilla VSM](https://miro.com/app/board/o9J_lQLM1Us=/)
 
 ### Entregables
