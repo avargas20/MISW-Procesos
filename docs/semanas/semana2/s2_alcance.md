@@ -22,7 +22,7 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL de la solución
-* El PO de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario y el resto de los integrantes del equipo debe realizar el ejercicio de slicing **(Pendiente)** sobre las HU que tienen
+* El PO de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario y el resto de los integrantes del equipo deben realizar el ejercicio de slicing **(Pendiente)** sobre las HU que tienen
 * De acuerdo a la reunión de priorización ajustar el VSM y definir el listado inicial de HU priorizado
 * Cargar el PBL en Jira y el VSM en Confluence
 
