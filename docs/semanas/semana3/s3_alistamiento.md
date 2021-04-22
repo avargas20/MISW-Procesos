@@ -8,7 +8,7 @@
 * Definir el flujo de trabajo que el equipo va a utilizar sobre el manejador de versiones para iniciar la implementación del proyecto
 
 ### Pasos previos
-
+---
 Verificar el acceso de cada uno de los integrantes del equipo al repositorio asignado
 
 ### Descripción actividad
