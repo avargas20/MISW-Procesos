@@ -9,7 +9,7 @@
 ### Pasos previos
 
 ---
-* Cada integrante del equipo debe crear una cuenta en Jira
+* Cada integrante del equipo debe crear una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira)
 
 ### Descripción actividad
 ---
@@ -19,7 +19,6 @@
 * Crear el proyecto en Jira e invitar a los integrantes del equipo (incluya al profesor y tutor del curso)
 * Estructurar el espacio para la documentación del proyecto en Confluence teniendo en cuenta la guía disponible en Recursos
 * Cargar en Confluence la información de los miembros del equipo 
-* Cargar en Jira las Épicas e Historias de Usuario del proyecto
 
 ### Recursos 
 
@@ -35,6 +34,6 @@
 ### Criterios de evaluación
 
 ---
-* Se evidencia en Jira/Confluence la estructuración de la documentación, la información de los integrantes del equipo y las épicas e historias de usuario del proyecto
+* Se evidencia en Jira/Confluence la estructuración de la documentación y la información de los integrantes del equipo
 
 
