@@ -20,7 +20,7 @@ Su amigo emprendedor vio su solución y le propuso convertirla en una aplicació
 
 ### Acercamiento al marco
 ---
-El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos del Inception. En el marco del proyecto del curso se han tenido en cuenta las siguientes características para la conformación de los equipos:
+El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos del Inception. En el marco del proyecto del curso se han tenido en cuenta los siguientes elementos y características para la conformación de los equipos:
 
 | Elemento                                  | Característica                                             | Descripción                                                                                                                                            |
 |-------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,6 +37,7 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c�
 
 ### Resumen de las actividades
 ---
+
 | Actividades   |
 |---------------|
 | [Formar equipo](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_equipo)  |
