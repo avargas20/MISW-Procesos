@@ -1,6 +1,7 @@
 ## Semana 2 - Inception (Parte 1)
 
 ### Objetivos
+---
 
 Los objetivos de la semana 2 son:
 
@@ -8,6 +9,7 @@ Los objetivos de la semana 2 son:
 2. Realizar el alistamiento del espacio para la gestión y documentación del proyecto
 
 ### Acercamiento al marco
+---
 
 El marco DAD propone diferentes técnicas para obtener y capturar los requisitos iniciales de la solución, la selección de estas técnicas depende de las necesidades de la organización y la experiencia del equipo en proyectos ágiles, es por esto que en el marco del proyecto del curso se proponen los siguientes puntos de decisión y prácticas:
 
@@ -20,6 +22,7 @@ El marco DAD propone diferentes técnicas para obtener y capturar los requisitos
 | Explorar las interfaces de usuario requeridas | Diagrama de flujo de interfaces de usuario | Es una actividad propuesta al explorar el alcance de la solución, sin embargo, puede construirse de forma evolutiva a medida que se avanza en la planeación y detalle de historias de usuario. Su finalidad es proporcionar al equipo una visión general de las interfaces de usuario requeridas en la aplicación para asegurar que el producto final sea funcional, usable y deseable           |
 
 ### Resumen de las actividades
+---
 
 | Actividades   |
 |---------------|
