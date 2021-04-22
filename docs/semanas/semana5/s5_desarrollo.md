@@ -24,13 +24,13 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Ejecutar la estrategia de pruebas
-* Documentar y gestionar los errores encontrados en **__Nombre de la herramienta__**
+* Documentar y gestionar los errores encontrados en Jira
 
 ### Entregables
 
 ---
 * URL del repositorio del equipo en GitHub
-* URL del espacio del equipo en **__Nombre de la herramienta__**
+* URL del espacio del equipo en Jira/Confluence
 
 
 ### Criterios de evaluación
@@ -39,4 +39,4 @@
 * Todas las pruebas unitarias funcionan correctamente
 * Se evidencia en el historial del respositorio el desarrollo usando TDD
 * El resultado de la integración continua es exitoso
-* Se evidencia en **__Nombre de la herramienta__** el resultado de la ejecución de la estrategia de pruebas y la gestión de las incidencias
+* Se evidencia en Jira el resultado de la ejecución de la estrategia de pruebas y la gestión de las incidencias
