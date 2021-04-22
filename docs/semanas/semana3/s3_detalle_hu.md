@@ -25,11 +25,11 @@
 
 * Detallar Historias de Usuario:
   * Detallar cada historia de usuario con la descripción, el mockup y los criterios de aceptación
-  * Cargar el detalle de las historias de usuario en **_Nombre de la herramienta_**
+  * Cargar el detalle de las historias de usuario en Jira
 
 * Revisar Historias de Usuario:
   * Realizar la inspección de las historias de usuario detalladas por otro compañero teniendo en cuenta la [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf)
-  * Registrar el resultado de la inspección en **_Nombre de la herramienta_**
+  * Registrar el resultado de la inspección en Jira
   * Cada integrante del grupo corrige las historias que detalló de acuerdo con las observaciones que realizó su compañero en la inspección
 
 
@@ -43,7 +43,7 @@
 ### Entregables
 
 ---
-* URL al espacio del equipo en **_Nombre de la herramienta_**
+* URL al espacio del equipo en Jira/Confluence
 
 ### Criterios de evaluación
 
