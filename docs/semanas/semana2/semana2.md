@@ -9,9 +9,9 @@ Los objetivos de la semana 2 son:
 
 ### Acercamiento al marco
 
-El marco DAD propone diferentes técnicas para obtener y capturar los requisitos iniciales de la solución, la selección de estas técnicas depende de las necesidades de la organización y la experiencia del equipo en proyectos ágiles, es por esto que en el marco del proyecto del curso se proponen las siguientes actividades y prácticas:
+El marco DAD propone diferentes técnicas para obtener y capturar los requisitos iniciales de la solución, la selección de estas técnicas depende de las necesidades de la organización y la experiencia del equipo en proyectos ágiles, es por esto que en el marco del proyecto del curso se proponen los siguientes puntos de decisión y prácticas:
 
-| Actividad                                     | Practica                                   | Descripción     |
+| Puntos de decisión                                     | Práctica                                   | Descripción     |
 |-----------------------------------------------|--------------------------------------------|-----------------|
 | Definir una estrategia de modelado            | Entrevistas                                | Mediante entrevistas pre-grabadas y un Foro de Preguntas al Cliente los miembros del equipo podrán indagar sobre las expectativas de los Stakeholders y las funcionalidades a implementar |
 | Explorar el uso                               | Visual Story Map                           | A partir de la construcción del Visual Story Map de la solución el equipo podrá identificar los principales usuarios y funcionalidades de la aplicación |
@@ -23,6 +23,6 @@ El marco DAD propone diferentes técnicas para obtener y capturar los requisitos
 
 | Actividades   |
 |---------------|
-| Presentación general del proyecto *(Pendiente definir el enunciado del proyecto)* |
+| Presentación general del proyecto *(Pendiente)* |
 | [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alcance)|
 | [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)|
