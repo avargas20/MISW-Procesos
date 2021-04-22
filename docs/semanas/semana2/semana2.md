@@ -27,5 +27,6 @@ El marco DAD propone diferentes técnicas para obtener y capturar los requisitos
 | Actividades   |
 |---------------|
 | Presentación general del proyecto *(Pendiente)* |
-| [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alcance)|
 | [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)|
+| [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alcance)|
+
