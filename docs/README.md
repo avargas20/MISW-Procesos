@@ -1,6 +1,6 @@
 Bienvenidos a la página con las guías para el desarrollo del proyecto del curso.
 
-El material está organizado semana a semana, junto con una sección de generalidades.
+A continuación encontrarán el material organizado semana a semana y una sección de generalidades:
 
 [Generalidades](https://avargas20.github.io/MISW-Procesos/generalidades)
 1. [Semana 1 - Introducción](https://avargas20.github.io/MISW-Procesos/semanas/semana1/semana1)
