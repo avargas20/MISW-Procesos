@@ -13,9 +13,9 @@ Los objetivos de la semana 3 son:
  
 ### Acercamiento al marco
 
-Como hemos visto en semanas anteriores, el marco DAD favorece la adaptabilidad de acuerdo con las características de la organización y contexto del problema. La siguiente tabla muestra el enfoque dado en el curso para la consecución de los objetivos del Inception de acuerdo con las actividades y prácticas propuestas.
+Como hemos visto en semanas anteriores, el marco DAD favorece la adaptabilidad de acuerdo con las características de la organización y contexto del problema. La siguiente tabla muestra el enfoque dado en el curso para la consecución de los objetivos del Inception de acuerdo con los puntos de decisión y prácticas propuestas.
 
-| Objetivo                                  | Actividad                                        | Práctica                                                    |
+| Objetivo                                  | Puntos de decisión                                        | Práctica                                                    |
 |-------------------------------------------|--------------------------------------------------|-------------------------------------------------------------|
 | Identificar la estrategia de arquitectura | Definir una estrategia de entrega                | Ampliar la solución existente                               |
 |                                           | Seleccionar una estrategia de arquitectura       | Arquitectura existente / Una sola propuesta de arquitectura |
