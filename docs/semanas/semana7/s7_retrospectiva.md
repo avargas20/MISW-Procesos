@@ -21,17 +21,17 @@
     * Datos de tiempos estimados vs ejecutados por historia
     * Burndown chart
   * Lecciones aprendidas
-* Cargar los resultados obtenidos en **_Nombre de la herramienta_**
+* Cargar los resultados obtenidos en Confluence
 
 
 ### Entregables
 
 ---
-* URL del espacio del equipo en **_Nombre de la herramienta_**
+* URL del espacio del equipo en Jira/Confluence
 
 ### Criterios de evaluación
 
 ---
 * La presentación evidencia la realización de la retrospectiva en equipo
-* La presentación se encuentra en **_Nombre de la herramienta_**
+* La presentación se encuentra disponible en Confluence
 
