@@ -11,7 +11,7 @@ Los objetivos del sprint son:
 ### Resumen de las actividades
 ---
 
-![](https://github.com/avargas20/MISW-Procesos/blob/group_by_sprints/docs/semanas/sprint1/sprint2.jpg)
+![](./../../assets/images/sprint1.jpg)
 
 | Actividades   |
 |---------------|
