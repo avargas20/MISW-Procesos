@@ -15,6 +15,6 @@ Los objetivos del sprint son:
 
 | Actividades   |
 |---------------|
-|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_planeacion_sprint)  |
-|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_desarrollo)|
-|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_seguimiento)|
+|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_planeacion_sprint)  |
+|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_desarrollo)|
+|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_seguimiento)|
