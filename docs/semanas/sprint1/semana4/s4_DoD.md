@@ -17,22 +17,26 @@ La definición de terminado (DoD) consiste en un checklist con actividades que e
 
 **Producto**
 
-* Código fuente de las historias de usuario desarrolladas en el repositorio GIT
-* Producto desplegado en el ambiente de desarrollo de grupo
+* Código fuente de las historias de usuario desarrolladas en el repositorio GIT, debidamente documentado
+* Código fuente de las pruebas unitarias desarrolladas en el repositorio GIT, debidamente documentado
+* Producto desplegado en el ambiente de pruebas
+* Scripts de integración contínua con *GitHub Actions*
 * Documentación del producto actualizada
-  * Documento de arquitectura, icluyendo documentación de servcios
+  * Documento de arquitectura actualizado, icluyendo documentación de servicios
   * Historias de usuario detalladas y actualizadas, incluyendo la sección cómo probar
   * Casos de prueba
 
 **Proceso**
 
 * Historias de usuario detalladas y aprobadas por el product owner
-* Historias de usuario con mockup
-* Historia de usuario desplegada en Heroku
-* Documento de arquitectura actualizado para la historia de usuario
-* Documentación de servicios implementados para la historia de usuario actualizada
-* HU validada con prueba funcionales
-* Código fuente debidamente documentado versionado en GIT
-* Registrar epica, historias de usario, actividades y tiempos en JIRA
+* Historias de usuario desplegadas en Heroku
+* Documento de arquitectura actualizado
+* Documentación de servicios implementados
+* HU validada con pruebas funcionales
+* Código fuente debidamente documentado y versionado en GIT
+* Se cuenta con un set de pruebas unitarias para los servicios desarrollados 
+* Las pruebas automáticas de la historia de usuario se ejecutan correctamente
+* Registrar épicas, historias de usuario, actividades y tiempos en JIRA
+* Mantener actualizada la información de actividades en Jira durante el sprint
 * Documentación del proyecto subida en Confluence
-* Subir evidencia a confluence de las reuniones de seguimiento del sprint (audio)
+* Subir evidencia a Confluence de las reuniones de seguimiento del sprint (audio)
