@@ -2,7 +2,7 @@ Bienvenidos a la página con las guías para el desarrollo del proyecto del curs
 
 A continuación encontrarán el material organizado semana a semana y una sección de generalidades:
 
-[Generalidades](https://avargas20.github.io/MISW-Procesos/generalidades)
+#### [Generalidades](https://avargas20.github.io/MISW-Procesos/generalidades)
 
 | [Introducción](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/semana1) | [Inception]() |   | [Sprint 1](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/sprint1) |   | [Sprint 2]() |   | [Cierre]() |
 |--------------|-----------|---|----------|---|----------|---|--------|
