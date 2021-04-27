@@ -9,7 +9,7 @@ Los objetivos del Inception son:
 ### Resumen de las actividades
 ---
 
-![](./../../assets/images/sprint1-1.jpg)
+![](./../../assets/images/sprint1.jpg)
 
 ### Detalle de las actividades
 ---
