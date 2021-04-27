@@ -40,4 +40,4 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c√
 
 | Actividades   |
 |---------------|
-| [Formar equipo](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana1/s1_equipo)  |
+| [Formar equipo](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/s1_equipo)  |
