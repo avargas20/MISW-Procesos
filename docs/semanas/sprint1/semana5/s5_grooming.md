@@ -11,7 +11,8 @@
 
 ---
 
-#### ![Actividad grupal](./../../assets/images/grupo.png) Actividad grupal
+![](./../../assets/images/grupo.png)
+#### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * El equipo debe realizar el grooming de las HU del proyecto. Para esto se proponen las siguientes actividades:
   * Los integrantes del equipo deben programar una reunión con el Product Owner (PO)
