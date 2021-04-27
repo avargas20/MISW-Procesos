@@ -14,7 +14,7 @@ Los objetivos del sprint son:
 ### Resumen de las actividades
 ---
 
-![](./../../assets/images/sprint1.jpg)
+![](./../../assets/images/sprint1-1.jpg)
 
 ### Detalle de las actividades
 ---
