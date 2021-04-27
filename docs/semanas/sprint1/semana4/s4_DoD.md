@@ -1,11 +1,6 @@
 
 ## Definición de terminado (Definition of Done - DoD)
 
-### Objetivos
-
----
-* Proporcionar los criterios básicos para determinar la definición de terminado
-
 
 ### Descripción 
 ---
