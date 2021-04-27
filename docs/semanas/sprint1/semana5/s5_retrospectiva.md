@@ -1,5 +1,8 @@
+| [Introducción](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/semana1) | [Inception]() |   | [Sprint 1](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/sprint1) |   | [Sprint 2]() |   | [Cierre]() |
+|--------------|-----------|---|----------|---|----------|---|--------|
+| Semana 1            | Semana 2         | Semana 3 | Semana 4       | ![](./../../assets/images/localization.jpg) **Semana 5** | Semana 6        | Semana 7 | Semana 8      |
 
-## Semana 5 - Retrospectiva del Sprint 1
+## Retrospectiva del Sprint 1
 
 ### Objetivos
 
