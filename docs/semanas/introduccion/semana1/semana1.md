@@ -1,4 +1,4 @@
-## Semana 1 - Introducción
+## Introducción
 
 ### Objetivos
 ---
