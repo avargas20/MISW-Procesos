@@ -20,15 +20,15 @@
 
 * Todos los miembros del equipo deben participar en la reunión de planeación del sprint
 * El equipo de desarrollo debe identificar las actividades necesarias para completar cada una de las HU del sprint y su tiempo estimado
-* Cargar esta información en **_Nombre de la herramienta_** y dar inicio al sprint
+* Cargar esta información en Jira y dar inicio al sprint
 
 ### Entregables
 ---
-* URL al espacio del equipo en **_Nombre de la herramienta_**
+* URL al espacio del equipo en Jira/Confluence
  
 
 ### Criterios de evaluación
 
 ---
-* Todas las HU del sprint se encuentran detalladas y estimadas en **_Nombre de la herramienta_**
+* Todas las HU del sprint se encuentran detalladas y estimadas en Jira
 * Se evidencia el inicio del sprint y la distribución de tareas en el tablero Kanban
