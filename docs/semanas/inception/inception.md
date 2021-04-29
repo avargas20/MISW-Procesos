@@ -2,21 +2,21 @@
 
 ### Objetivos
 ---
-Los objetivos del Inception son:
+*
 
 
  
 ### Resumen de las actividades
 ---
 
-![](./../../assets/images/sprint1.jpg)
+![](./../../assets/images/inception.jpg)
 
 ### Detalle de las actividades
 ---
 
 <table>
   <tr>
-   <td align="center" colspan="7"><b>Sprint 1</b></td>
+   <td align="center" colspan="7"><b>Inception</b></td>
   </tr>
   <tr>
     <td width="100px" ><b>Semana 4</b></td>
