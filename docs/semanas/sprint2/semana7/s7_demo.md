@@ -26,8 +26,8 @@
 
 ---
 
-* [Recomendaciones para la entrega](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_recomendaciones)
-* [Recomendaciones para la presentación](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_recomendaciones_demo)
+* [Recomendaciones para la entrega](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_recomendaciones)
+* [Recomendaciones para la presentación](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_recomendaciones_demo)
 
 
 ### Entregables
