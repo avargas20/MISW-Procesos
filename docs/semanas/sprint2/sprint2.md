@@ -7,7 +7,7 @@ Los objetivos del sprint son:
 1. Realizar la planeación del sprint
 2. Desarrollar las funcionalidades del Sprint Backlog teniendo en cuenta las prácticas vistas en cursos anteriores
 3. Hacer seguimiento al avance de actividades del sprint mediante Daily meetings y tableros Kanban
-4. Cerrar el primer sprint de desarrollo y preparar la demostración para la *Revisión del Sprint*
+4. Cerrar el segundo sprint de desarrollo y preparar la demostración para la *Revisión del Sprint*
 5. Realizar la *Retrospectiva del sprint* a partir del análisis de las lecciones aprendidas en las dimensiones de equipo, proceso y producto
  
 ### Resumen de las actividades
