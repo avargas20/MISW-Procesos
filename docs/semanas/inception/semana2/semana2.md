@@ -2,11 +2,8 @@
 
 ### Objetivos
 ---
-
-Los objetivos de la semana 2 son:
-
-1. Explorar el alcance mediante la construcción del Visual Story Map de la solución
-2. Realizar el alistamiento del espacio para la gestión y documentación del proyecto en Jira/Confluence
+* Explorar el alcance mediante la construcción del Visual Story Map de la solución
+* Realizar el alistamiento del espacio para la gestión y documentación del proyecto en Jira/Confluence
 
 ### Acercamiento al marco
 ---
@@ -27,6 +24,6 @@ El marco DAD propone diferentes técnicas para obtener y capturar los requisitos
 | Actividades   |
 |---------------|
 | Presentación general del proyecto *(Pendiente)* |
-| [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)|
-| [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alcance)|
+| [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alistamiento)|
+| [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alcance)|
 
