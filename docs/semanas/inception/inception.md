@@ -16,22 +16,21 @@
 
 <table>
   <tr>
-   <td align="center" colspan="7"><b>Inception</b></td>
+   <td align="center" colspan="9"><b>Inception</b></td>
   </tr>
   <tr>
-    <td width="100px" ><b>Semana 4</b></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_planeacion_sprint">Planeación del sprint</a></td>
-    <td rowspan="2" align="center"><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_desarrollo">Desarrollo del proyecto</a></td>
-    <td rowspan="2" align="center"><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_seguimiento">Seguimiento</a></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"><b>Semana 2</b></td>
+    <td colspan="6"><b>Semana 6</b></td>
   </tr>
   <tr>
-    <td width="100px"><b>Semana 5</b></td>
-    <td></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_grooming">Grooming de historias</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_demo">Demostración del producto</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_retrospectiva">Retrospectiva</a></td>
+    <td><a href="#">Presentación general del proyecto</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alistamiento">Alistamiento del espacio para gestión y documentación del proyecto</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alcance">Explorar el alcance</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_alistamiento">Alistamiento del ambiente de desarrollo</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_arquitectura">Estrategia de arquitectura</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_pruebas">Estrategia de pruebas</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_detalle_hu">Detalle de historias de usuario</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planeacion">Estimación y planeación</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_riesgos">Definición de riesgos</a></td>
   </tr>
 </table>
