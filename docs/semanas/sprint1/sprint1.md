@@ -20,18 +20,18 @@
 
 <table>
   <tr>
-   <td align="center" colspan="8"><b>Sprint 1</b></td>
+   <td align="center" colspan="9"><b>Sprint 1</b></td>
   </tr>
   <tr>
-    <td rowspan="3"><b>Semana 4</b></td>
-    <td rowspan="5"><b>Semana 5</b></td>    
+    <td colspan="3"><b>Semana 4</b></td>
+    <td colspan="5"><b>Semana 5</b></td>    
   </tr>
   <tr>
     <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_planeacion_sprint">Planeación del sprint</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_desarrollo">Desarrollo del proyecto</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_seguimiento">Seguimiento</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_desarrollo">Desarrollo del proyecto</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_seguimiento">Seguimiento</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_desarrollo">Desarrollo del proyecto (1 parte)</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_seguimiento">Seguimiento (1 parte)</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_desarrollo">Desarrollo del proyecto (2 parte)</a></td>
+    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_seguimiento">Seguimiento (2 parte)</a></td>
     <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_grooming">Grooming de historias</a></td>
     <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_demo">Demostración del producto</a></td>
     <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_retrospectiva">Retrospectiva</a></td>
