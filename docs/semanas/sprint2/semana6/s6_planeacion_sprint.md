@@ -1,5 +1,8 @@
+| [Introducción](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/semana1) | [Inception](https://avargas20.github.io/MISW-Procesos/semanas/inception/inception) |   | [Sprint 1](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/sprint1) |   | [Sprint 2](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/sprint2) |   | [Cierre]() |
+|--------------|-----------|---|----------|---|----------|---|--------|
+| [Semana 1](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/semana1)            | [Semana 2](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/semana2)         | [Semana 3](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/semana3) | [Semana 4](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/semana4) | [Semana 5](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/semana5) | **[Semana 6](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/semana6)** | [Semana 7](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/semana7) | [Semana 8]()      |
 
-## Semana 6 - Planeación del sprint 2
+## Planeación del sprint 2
 
 ### Objetivos
 
@@ -26,20 +29,20 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
   * Estimar las HU del PBL en PHU
   * Estimar los tiempos de las actividades de la HU base
   * Realizar el cálculo de la velocidad del equipo
-  * Cargar el calculo de velocidad y estimación de las HU en **_Nombre de la herramienta_**
+  * Cargar el calculo de velocidad y estimación de las HU en Confluence
 * Junto con el PO, definir el alcance del sprint de acuerdo al cálculo de velocidad del equipo
 * Planeación detallada
   * El equipo de desarrollo debe identificar las actividades necesarias para completar cada una de las HU del sprint y su tiempo estimado
-* Cargar esta información en **_Nombre de la herramienta_** y dar inicio al sprint
+* Cargar esta información en Jira y dar inicio al sprint
 
 ### Entregables
 ---
-* URL al espacio del equipo en **_Nombre de la herramienta_**
+* URL al espacio del equipo en Jira/Confluence
  
 
 ### Criterios de evaluación
 
 ---
-* El formato de cálculo de la velocidad del equipo esta disponible en **_Nombre de la herramienta_**
-* Todas las HU del sprint se encuentran detalladas y estimadas en **_Nombre de la herramienta_**
+* El formato de cálculo de la velocidad del equipo esta disponible en Confluence
+* Todas las HU del sprint se encuentran detalladas y estimadas en Jira
 * Se evidencia el inicio del sprint y la distribución de tareas en el tablero Kanban
