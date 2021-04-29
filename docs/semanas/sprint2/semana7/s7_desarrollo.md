@@ -11,7 +11,6 @@
 * Utilizar la práctica de TDD para implementar las Historias de Usuario del proyecto
 * Utilizar pair programming en las historias que el equipo considere críticas
 * Realizar las pruebas unitarias del proyecto utilizando librerías para generación aleatoria de datos
-* Verficar la calidad de código del proyecto mediante el uso de la herramienta **_Nombre de la herramienta para análisis de código (CodeQL)_**
 
 
 ### Descripción actividad
@@ -25,11 +24,6 @@
   * Implementar la generación de datos aleatorios en las pruebas unitarias
 * Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio GitHub del equipo de acuerdo con el flujo de trabajo definido
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
-
-* Calidad de código:
-  * Incluir en el script de GitHub Actions las instrucciones para realizar el análisis de código del proyecto con **_Nombre de la herramienta para análisis de código (CodeQL)_**
-  * Discutir en equipo los hallazgos
   
 ### Entregables
 
