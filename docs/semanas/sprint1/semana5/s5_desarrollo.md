@@ -24,11 +24,6 @@
   * Implementar la generación de datos aleatorios en las pruebas unitarias
 * Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio GitHub del equipo de acuerdo con el flujo de trabajo definido
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
-
-* Ejecutar la estrategia de pruebas
-* Documentar y gestionar los errores encontrados en Jira
-
 ### Entregables
 
 ---
@@ -42,4 +37,3 @@
 * Todas las pruebas unitarias funcionan correctamente
 * Se evidencia en el historial del respositorio el desarrollo usando TDD
 * El resultado de la integración continua es exitoso
-* Se evidencia en Jira el resultado de la ejecución de la estrategia de pruebas y la gestión de las incidencias
