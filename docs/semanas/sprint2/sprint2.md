@@ -2,7 +2,6 @@
 
 ### Objetivos
 ---
-Los objetivos del sprint son:
 
 1. Realizar la planeación del sprint
 2. Desarrollar las funcionalidades del Sprint Backlog teniendo en cuenta las prácticas vistas en cursos anteriores
