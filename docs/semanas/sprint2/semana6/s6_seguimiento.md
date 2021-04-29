@@ -23,7 +23,7 @@
 ### Recursos 
 
 ---
-* [Instructivo para conducir la sesión de Daily meeting](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_daily_meeting)
+* [Instructivo para conducir la sesión de Daily meeting](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_daily_meeting)
 
 ### Entregables
 
