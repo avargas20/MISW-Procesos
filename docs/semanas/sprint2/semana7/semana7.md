@@ -13,7 +13,7 @@ Los objetivos de la semana 7 son:
 
 | Actividades   |
 |---------------|
-|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana7/s7_desarrollo)|
-|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana7/s7_seguimiento)|
-|[Demostración del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana7/s7_demo)|
-|[Retrospectiva](https://avargas20.github.io/MISW-Procesos/semanas/semana7/s7_retrospectiva)|
+|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_desarrollo)|
+|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_seguimiento)|
+|[Demostración del producto](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_demo)|
+|[Retrospectiva](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_retrospectiva)|
