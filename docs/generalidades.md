@@ -3,7 +3,7 @@
 
 El objetivo del proyecto del curso es aplicar un proceso de desarrollo definido a partir de los principios y principales prácticas propuestas por los marcos de trabajo ágiles para desarrollar un proyecto de software. 
 
-El proyecto es pequeño y su alcance esta documentado a través del [enunciado](https://github.com/avargas20/MISW-Procesos/blob/main/docs/generalidades.md#enunciado). Para desarrollar el proyecto se conformarán equipos de 4 estudiantes. El proceso de desarrollo es iterativo e incremental basado en Scrum.
+El proyecto es pequeño y su alcance esta documentado a través del [enunciado](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Para desarrollar el proyecto se conformarán equipos de 4 estudiantes. El proceso de desarrollo es iterativo e incremental basado en Scrum.
 
 Las **semanas 2 y 3** corresponden a la fase de Inception. Durante esta fase los equipos tendrán que preparar todos los elementos necesarios y suficientes para iniciar el desarrollo: se conforma el equipo de trabajo, se establece el alcance del producto alineado con el contexto organizacional, se explora la estrategia de arquitectura, se trabaja en los requerimientos iniciales y se hace una planeación inicial.
  
