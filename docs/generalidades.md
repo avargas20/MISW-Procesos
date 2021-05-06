@@ -3,11 +3,20 @@
 
 El objetivo del proyecto del curso es aplicar un proceso de desarrollo definido a partir de los principios y principales prácticas propuestas por los marcos de trabajo ágiles para desarrollar un proyecto de software. 
 
-El proyecto es pequeño y su alcance esta documentado a través del [enunciado](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Para desarrollar el proyecto se conformarán equipos de 4 estudiantes. El proceso de desarrollo es iterativo e incremental basado en Scrum.
+El proyecto se realiza a partir de un grupo de funcionalidades ya desarrolladas y su alcance esta definido a partir de los requerimientos documentados en el [enunciado](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Para desarrollar el proyecto se conformarán equipos de 4 estudiantes. El proceso de desarrollo es iterativo e incremental basado en Scrum.
 
-Las **semanas 2 y 3** corresponden a la fase de Inception. Durante esta fase los equipos tendrán que preparar todos los elementos necesarios y suficientes para iniciar el desarrollo: se conforma el equipo de trabajo, se establece el alcance del producto alineado con el contexto organizacional, se explora la estrategia de arquitectura, se trabaja en los requerimientos iniciales y se hace una planeación inicial.
+Las **semanas 2 y 3** corresponden a la fase de Inception. Durante esta fase los equipos tendrán que preparar todos los elementos necesarios y suficientes para iniciar el desarrollo: 
+
+- Se conforma el equipo de trabajo
+- Se establece el alcance del producto alineado con el contexto organizacional
+- Se explora la estrategia de arquitectura
+- Se trabaja en los requerimientos iniciales y se hace una planeación inicial
  
-Las **semanas 4 y 5** corresponden al primer sprint de desarrollo y las **semanas 6 y 7** corresponden al segundo sprint de desarrollo. Durante estos ciclos los equipos tendrán que desarrollar las historias de usuario utilizando las prácticas vistas en el curso anterior (Prácticas Esenciales de agilismo), cumplir con los eventos y artefactos definidos por el marco Scrum y realizar seguimiento de las actividades mediante un tablero kanban.
+Las **semanas 4 y 5** corresponden al primer sprint de desarrollo y las **semanas 6 y 7** corresponden al segundo sprint de desarrollo. Durante estos ciclos los equipos tendrán que:
+
+- Desarrollar las historias de usuario utilizando las prácticas vistas en el curso anterior (Prácticas Esenciales de agilismo)
+- Cumplir con los eventos y artefactos definidos por el marco Scrum 
+- Realizar seguimiento mediante un tablero kanban
 
 Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de todo el proceso llevado a cabo.
 
