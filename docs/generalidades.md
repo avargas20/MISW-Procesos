@@ -1,4 +1,5 @@
 ## Generalidades
+---
 
 El objetivo del proyecto del curso es aplicar un proceso de desarrollo definido a partir de los principios y principales prácticas propuestas por los marcos de trabajo ágiles para desarrollar un proyecto de software. 
 
@@ -13,6 +14,7 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 El proyecto se comienza a desarrollar a partir de la semana 4 del curso. Los equipos se conforman durante las semanas 1 y 2, semana en la cual ya hay actividades en grupo.
 
 ## Enunciado
+---
 
 Lorenzo es un melómano y coleccionista de música que ha pasado toda su vida recopilando álbumes musicales; periódicamente se reúne con sus amigos para compartir su música y hablar sobre las historias alrededor de las canciones o curiosidades de los artistas. Con el tiempo, Lorenzo notó que cada vez era más difícil encontrar sus canciones y por esto desarrolló Ionic, una aplicación para organizar su colección y buscar de forma fácil y rápida sus álbumes o canciones utilizando  el título o nombre de un intérprete.
 
@@ -26,26 +28,26 @@ Después de consultar, Carlos le propuso a Lorenzo evolucionar Ionic para conver
 
 Carlos propuso las siguientes funcionalidades:
 
-**Compartir con amigos**
+* **Compartir con amigos**
 
 Se espera que los usuarios registrados en la aplicación puedan compartir  sus álbumes y canciones 
 
-**Generar hilos de conversación**
+* **Generar hilos de conversación**
 
 Los usuarios deben poder comentar la información de los álbumes y canciones generando hilos de conversación sobre temas relevantes o curiosidades.
 
-**Notificaciones**
+* **Notificaciones**
 
 Los usuarios podrán saber cuándo las canciones y álbumes compartidos por ellos  han sido comentados y quién lo hizo
 Puntuación
 
 Dependiendo de la calidad de los comentarios recibidos, los usuarios podrán calificarse entre sí. El promedio de las calificaciones recibidas se verá reflejado en el perfil del usuario
 
-**Canciones favoritas**
+* **Canciones favoritas**
 
 Los usuarios podrán seleccionar una canción como favorita y deseleccionarla cuando deseen. Este criterio será tenido en cuenta al buscar canciones pues las canciones favoritas que cumplan con el criterio de búsqueda aparecen siempre en las primeras posiciones.
 
-**Filtrado**
+* **Filtrado**
 
 Los usuarios podrán filtrar álbumes y canciones por nombre, intérprete o género.
 
@@ -53,6 +55,7 @@ Aunque Lorenzo le parece muy llamativo, no cuenta con los conocimientos ni con e
 
 
 ## Tecnologías para el desarrollo 
+---
 
 Las tecnologías que se utilizarán para desarrollar el proyecto son: Python con Flask como lenguaje de programación en el backend, GIT para el control de versiones, SQLite para la base de datos y Angular en el frontend. Para el desarrollo del proyecto se tendrán en cuenta las siguientes herramientas:
 
