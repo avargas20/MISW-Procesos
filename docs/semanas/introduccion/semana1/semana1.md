@@ -2,11 +2,8 @@
 
 ### Objetivos
 ---
-Los objetivos de la semana 1 son:
 
-1. Conformar los equipos de trabajo
-2. Consolidar la cultura de equipo mediante la definición del Canvas de Equipo
-3. Identificar las fortalezas y debilidades técnicas del equipo mediante la construcción de la Matriz de Competencias
+* Realizar el ejercicio de conformación de equipos a partir del análisis de los resultados obtenidos en los instrumentos de caracterización "¿Cómo me veo a mí mismo?" y "Déjanos conocerte".
 
 ### Pasos previos
 ---
@@ -14,9 +11,9 @@ Los objetivos de la semana 1 son:
 
 ### Contexto del proyecto
 ---
-Lorenzo es un melómano y coleccionista de música que ha pasado toda su vida coleccionando álbumes musicales. Creó un sistema para almacenar la información de su colección y tener dónde buscar de manera fácil sus canciones pues tenia problemas para recordar en cuál álbum encontrar una canción que queria escuchar.
+Lorenzo es un melómano y coleccionista de música que ha pasado toda su vida recopilando álbumes musicales. Con el tiempo, Lorenzo notó que cada vez era más difícil encontrar sus canciones y por esto desarrolló Ionic, una aplicación para organizar su colección y encontrar su musica de forma fácil y rápida.
 
-Su amigo emprendedor vio su solución y le propuso convertirla en una aplicación comercial para el almacenamiento de información musical aplicando a una convocatoria para adquirir recursos, esto implica evolucionar la aplicación actual para convertirla en un MVP usable y escalable a muchos usuarios. Es por esto que Lorenzo ha decidido contactar a la universidad, con el fin de conseguir un equipo que le ayude a mejorar su aplicación y cautivar a los inversionistas.
+Su amigo emprendedor vio su solución y le propuso convertirla en una aplicación comercial para el almacenamiento de información musical aplicando a una convocatoria para adquirir recursos, esto implica evolucionar la aplicación actual para convertirla en un Producto Mínimo Viable (MVP, siglas en inglés) usable y escalable a muchos usuarios. Aunque Lorenzo esta de acuerdo con la propuesta de su amigo, no cuenta con los conocimientos ni con el tiempo para desarrollar las nuevas funcionalidades, es por esto que ha decidido contactar a la Universidad de los Andes, con el fin de conseguir un equipo que le ayude a mejorar su aplicación y cautivar a los inversionistas.
 
 ### Acercamiento al marco
 ---
@@ -40,4 +37,4 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c�
 
 | Actividades   |
 |---------------|
-| [Formar equipo](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/s1_equipo)  |
+| [Conformación de equipos](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/s1_equipo)  |
