@@ -8,7 +8,7 @@ Las **semanas 2 y 3** corresponden a la fase de Inception. Durante esta fase los
  
 Las **semanas 4 y 5** corresponden al primer sprint de desarrollo y las **semanas 6 y 7** corresponden al segundo sprint de desarrollo. Durante estos ciclos los equipos tendrán que desarrollar las historias de usuario utilizando las prácticas vistas en el curso anterior (Prácticas Esenciales de agilismo), cumplir con los eventos y artefactos definidos por el marco Scrum y realizar seguimiento de las actividades mediante un tablero kanban.
 
-Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva general.
+Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de todo el proceso llevado a cabo.
 
 El proyecto se comienza a desarrollar a partir de la semana 4 del curso. Los equipos se conforman durante las semanas 1 y 2, semana en la cual ya hay actividades en grupo.
 
