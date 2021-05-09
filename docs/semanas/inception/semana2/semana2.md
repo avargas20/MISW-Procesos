@@ -2,8 +2,10 @@
 
 ### Objetivos
 ---
+
+* Consolidar la cultura de equipo utilizando el Canvas de Equipo
 * Explorar el alcance mediante la construcción del Visual Story Map de la solución
-* Realizar el alistamiento del espacio para la gestión y documentación del proyecto en Jira/Confluence
+* Realizar el alistamiento del espacio para la gestión y documentación del proyecto en Jira y la wiki de GitHub
 
 ### Acercamiento al marco
 ---
@@ -23,7 +25,8 @@ El marco DAD propone diferentes técnicas para obtener y capturar los requisitos
 
 | Actividades   |
 |---------------|
-| Presentación general del proyecto *(Pendiente)* |
+| [Canvas de equipo](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_canvas_de_equipo) |
+| [Presentación general del proyecto](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado) |
 | [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alistamiento)|
 | [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alcance)|
 
