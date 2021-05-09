@@ -7,7 +7,7 @@
 ### Objetivos
 
 ---
-* Estructurar el espacio para la gestión y documentación del proyecto en Jira/Confluence
+* Estructurar el espacio para la gestión y documentación del proyecto en Jira y la Wiki de GitHub
 
 
 ### Pasos previos
@@ -21,23 +21,24 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Crear el proyecto en Jira e invitar a los integrantes del equipo (incluya al profesor y tutor del curso)
-* Estructurar el espacio para la documentación del proyecto en Confluence teniendo en cuenta la guía disponible en Recursos
-* Cargar en Confluence la información de los miembros del equipo 
+* Estructurar el espacio para la documentación del proyecto en la Wiki de GitHub teniendo en cuenta la guía disponible en Recursos
+* Cargar en la Wiki la información de los miembros del equipo 
 
 ### Recursos 
 
 ---
-* [Guía para organización de la documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_organizacion_de_la_documentacion)
-* Tutorial de Jira/Confluence (Pendiente)
+* [Guía para organización de la documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_organizacion_de_la_documentacion)
+* Tutorial de Jira (*Pendiente*)
 
 ### Entregables
 
 ---
-* URL al espacio del equipo en Jira/Confluence
+* URL al espacio del equipo en Jira
+* URL a la Wiki del equipo en GitHub
 
 ### Criterios de evaluación
 
 ---
-* Se evidencia en Jira/Confluence la estructuración de la documentación y la información de los integrantes del equipo
+* Se evidencia en la Wiki la estructuración de la documentación y la información de los integrantes del equipo
 
 
