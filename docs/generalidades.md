@@ -1,21 +1,23 @@
 ## Generalidades
 ---
 
-El objetivo del proyecto del curso es aplicar un proceso de desarrollo definido a partir de los principios y principales prácticas propuestas por los marcos de trabajo ágiles para desarrollar un proyecto de software. 
+El objetivo del proyecto del curso es aplicar un proceso de desarrollo definido a partir de los principios y prácticas propuestas por los marcos de trabajo ágiles para desarrollar un proyecto de software. 
 
-El proyecto se realiza a partir de un grupo de funcionalidades ya desarrolladas y su alcance esta definido a partir de los requerimientos documentados en el [enunciado](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Para desarrollar el proyecto se conformarán equipos de 4 estudiantes. El proceso de desarrollo es iterativo e incremental basado en Scrum.
+El proyecto consiste en evolucionar un producto que ya tiene algunas de funcionalidades desarrolladas y su alcance esta definido a partir de los requerimientos documentados en el [enunciado](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Para desarrollar el proyecto se conformarán equipos de 4 estudiantes. El proceso está basado en Scrum e incluye varias prácticas de ingeniería de software y de otros marcos ágiles.
 
-Las **semanas 2 y 3** corresponden a la fase de Inception. Durante esta fase los equipos tendrán que preparar todos los elementos necesarios y suficientes para iniciar el desarrollo: 
+Las **semanas 2 y 3** corresponden a la fase de *Inception. Durante esta fase los equipos tendrán que preparar todos los elementos necesarios y suficientes para iniciar el desarrollo: 
 
 - Se conforma el equipo de trabajo
 - Se establece el alcance del producto alineado con el contexto organizacional
 - Se explora la estrategia de arquitectura
-- Se trabaja en los requerimientos iniciales y se hace una planeación inicial
+- Se trabaja en las historias de usuario iniciales y se hace una planeación inicial
+- Se define un plan de riesgos sencillo
  
 Las **semanas 4 y 5** corresponden al primer sprint de desarrollo y las **semanas 6 y 7** corresponden al segundo sprint de desarrollo. Durante estos ciclos los equipos tendrán que:
 
+- Realizar la planeación del sprint
 - Desarrollar las historias de usuario utilizando las prácticas vistas en el curso anterior (Prácticas Esenciales de agilismo)
-- Cumplir con los eventos y artefactos definidos por el marco Scrum 
+- Cumplir con las ceremonias (eventos) y artefactos definidos por el marco Scrum 
 - Realizar seguimiento mediante un tablero kanban
 
 Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de todo el proceso llevado a cabo.
@@ -33,7 +35,7 @@ Cuando Lorenzo elige un álbum de la lista, puede ver su información y las canc
 
 Cuando Lorenzo mostró Ionic a sus amigos, estos quedaron encantados y le sugirieron ajustar Ionic para que todos puedan ingresar y utilizarlo, de esta forma, además de servir a Lorenzo para encontrar canciones, podrían compartir información entre todos. Carlos, quien hace parte de este grupo de amigos, pensó que con su ayuda Lorenzo podría convertir esta iniciativa en un emprendimiento para conectar a más melómanos y monetizar el trabajo realizado. Por esto, inició la búsqueda de convocatorias de emprendimiento a las cuales aplicar.
 
-Después de consultar, Carlos le propuso a Lorenzo evolucionar Ionic para convertirlo en un Producto Mínimo Viable (MVP, siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a su navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.
+Después de consultar, Carlos le propuso a Lorenzo evolucionar Ionic para convertirlo en un Producto Mínimo Viable (MVP, siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.
 
 Carlos propuso las siguientes funcionalidades:
 
