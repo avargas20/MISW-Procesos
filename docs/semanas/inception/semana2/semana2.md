@@ -25,7 +25,7 @@ El marco DAD recoge diferentes técnicas  y prácticas para obtener y capturar l
 
 | Actividades   |
 |---------------|
-| [Canvas de equipo](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_canvas_de_equipo) |
+| [Generación de acuerdos de equipo](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_canvas_de_equipo) |
 | [Presentación general del proyecto](https://avargas20.github.io/MISW-Procesos/generalidades) |
 | [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alistamiento)|
 | [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alcance)|
