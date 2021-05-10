@@ -3,9 +3,9 @@
 ### Objetivos
 ---
 
-* Consolidar la cultura de equipo utilizando el Canvas de Equipo
-* Explorar el alcance mediante la construcción del Visual Story Map de la solución
-* Realizar el alistamiento del espacio para la gestión y documentación del proyecto en Jira y la wiki de GitHub
+* Generar acuerdos para el trabajo en equipo utilizando el Canvas de Equipo.
+* Explorar el alcance mediante la construcción del Visual Story Map de la solución.
+* Realizar el alistamiento del espacio para la gestión y documentación del proyecto en Jira y la wiki de GitHub.
 
 ### Acercamiento al marco
 ---
