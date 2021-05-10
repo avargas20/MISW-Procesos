@@ -3,7 +3,8 @@
 ### Objetivos
 ---
 
-* Realizar el ejercicio de conformación de equipos a partir del análisis de los resultados obtenidos en los instrumentos de caracterización "¿Cómo me veo a mí mismo?" y "Déjanos conocerte".
+* Recoger información pertinente para la conformación de los equipos de trabajo del proyecto.
+* Conformar los equipos teniendo a partir del análisis de la información recogida.
 
 ### Pasos previos
 ---
@@ -29,8 +30,8 @@ La aplicación se encuentra desarrollada en Python, usando el framework FLASK, A
     * Déjanos conocerte
 2. Autocalifique sus habilidades y provea más información importante llenando este formulario (enlace)
 3. Teniendo en cuenta las recomendaciones para confromar un equipo, contacte a través de Slack a compañeros con los cuales considere puede formar un buen equipo. Consulte el archivo CarectizaciónEstudiantes (enlace) las principales características de sus compañeros de clase. En el foro Presentación puede también revisar los mapas personales sus compañeros.
-4. Cuando ya tengan un equipo formado, en el mismo archivo CarectizaciónEstudiantes marquen las filas de cada uno con **Ya tiene equipo** y en la hoja **Equipos** agreguen la información de su equipo.
-5. Hacer una reunión con sus compañeros de equipo convel propósito de empezar a conocerse. Como primera parte de esta reunión compartan las respuestas que dieron en el test “Déjanos conocerte”.
+4. Cuando ya tengan un equipo formado, en el mismo archivo CarectizaciónEstudiantes, marquen las filas de cada uno con **Ya tiene equipo** y en la hoja **Equipos** agreguen la información de su equipo.
+5. Hacer una reunión con sus compañeros de equipo con el propósito de empezar a conocerse. Como primera parte de esta reunión compartan las respuestas que dieron en el test “Déjanos conocerte”.
 
 ### Prácticas y estragegias seleccionadas para la conformación del equipo
 ---
