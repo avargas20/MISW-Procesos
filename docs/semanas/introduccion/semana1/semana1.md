@@ -15,11 +15,22 @@ Lorenzo es un melómano y coleccionista de música que ha pasado toda su vida re
 
 Carlos, Su amigo emprendedor, vio su solución y le propuso convertirla en una aplicación comercial para el almacenamiento de información musical aplicando a una convocatoria para adquirir recursos, esto implica evolucionar la aplicación actual para convertirla en un Producto Mínimo Viable (MVP, siglas en inglés) usable y escalable a muchos usuarios. Aunque Lorenzo esta de acuerdo con la propuesta de su amigo, no cuenta con los conocimientos ni con el tiempo para desarrollar las nuevas funcionalidades, es por esto que ha decidido contactar a la Universidad de los Andes, con el fin de conseguir un equipo que le ayude a mejorar su aplicación y cautivar a los inversionistas.
 
-El reto que tiene el equipo es entregar luego de dos iteraciones (o *sprints*) una versión evolucionada del producto IONIC, esta versión debe incluir las funcionalidades y características que Lorenzo y Carlos consideren más importantes para poder participar en una convocatoria para obtener financiación de inversionistas.
+El **reto** que tiene el equipo es entregar luego de **dos iteraciones** (o *sprints*) **una versión evolucionada del producto IONIC,** esta versión debe incluir las funcionalidades y características que Lorenzo y Carlos consideren más importantes para poder participar en una convocatoria para obtener financiación de inversionistas.
 
 La aplicación se encuentra desarrollada en Python, usando el framework FLASK, Angular para el front y SQL Alcheny y SQLLite para la persistencia.
 
+### ¿Qué tener en cuenta para conformar un equipo?
+*Rocio nos puedes ayudar con un listado de aspectos a tener en cuenta*
+
 ### Instrucciones para conformar el equipo
+---
+1. En el sistema Tandem (enlace) complete los dos siguientes instrumentos:
+    * ¿Cómo me veo a mí mismo?
+    * Déjanos conocerte
+2. Autocalifique sus habilidades y provea más información importante llenando este formulario (enlace)
+3. Teniendo en cuenta las recomendaciones para confromar un equipo, contacte a través de Slack a compañeros con los cuales considere puede formar un buen equipo. Consulte el archivo CarectizaciónEstudiantes (enlace) las principales características de sus compañeros de clase. En el foro Presentación puede también revisar los mapas personales sus compañeros.
+4. Cuando ya tengan un equipo formado, en el mismo archivo CarectizaciónEstudiantes marquen las filas de cada uno con **Ya tiene equipo** y en la hoja **Equipos** agreguen la información de su equipo.
+5. Hacer una reunión con sus compañeros de equipo convel propósito de empezar a conocerse. Como primera parte de esta reunión compartan las respuestas que dieron en el test “Déjanos conocerte”.
 
 ### Prácticas y estragegias seleccionadas para la conformación del equipo
 ---
