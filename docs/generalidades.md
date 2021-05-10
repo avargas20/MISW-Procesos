@@ -68,7 +68,7 @@ Aunque Lorenzo le parece muy llamativo, no cuenta con los conocimientos ni con e
 ## Tecnologías para el desarrollo 
 ---
 
-Las tecnologías que se utilizarán para desarrollar el proyecto son: Python con Flask como lenguaje de programación en el backend, GIT para el control de versiones, SQLite para la base de datos y Angular en el frontend. Para el desarrollo del proyecto se tendrán en cuenta las siguientes herramientas:
+Las tecnologías que se utilizarán para desarrollar el proyecto son: Python con Flask como lenguaje de programación en el backend, Angular en el frontend,  SQLite para la base de datos y GIT para el control de versiones. Para el desarrollo del proyecto se tendrán en cuenta las siguientes herramientas:
 
 | Elemento                  | Herramienta |
 | ------------------------- | ----------- |
