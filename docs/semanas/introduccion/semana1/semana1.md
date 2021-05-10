@@ -34,7 +34,7 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c�
 | Longevidad del equipo                     | Durante el proyecto                                        | 8 semanas de acuerdo con la duración del curso                                                                                                         |
 | Distribución geográfica                   | Miembros totalmente distribuidos/ Múltiples zonas horarias | Dada la naturaleza del curso es muy probable que los miembros del equipo se encuentren distribuidos geográficamente y tengan diferentes zonas horarias |
 | Orientación del equipo                    | Mentoria                                                   | Los equipos serán orientados por un profesor y un tutor                                                                                                |
-| Disponibilidad de los miembros del equipo | Tiempo parcial                                             | 12 horas por semana de acuerdo el plan de estudios  |
+| Disponibilidad de los miembros del equipo | Tiempo parcial                                             | entre 7-8 horas por semana para el proyecto y en concordancia con el programa del curso  |
 
 *Estas características varian dependiendo de la organización o contexto del problema*
 
