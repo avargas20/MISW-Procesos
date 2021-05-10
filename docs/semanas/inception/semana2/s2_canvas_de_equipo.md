@@ -7,7 +7,7 @@
 ### Objetivos
 
 ---
-* Consolidar la cultura de equipo mediante la definición del Canvas de Equipo
+* Establecer acuerdos de equipo mediante la definición del Canvas de Equipo
 
 ### Descripción actividad
 
@@ -24,10 +24,11 @@
 ### Entregables
 
 ---
-* Canvas del equipo
+* Canvas del equipo en Miro
+* Enlace al canvas de equipo en la WIKI del proyecto
 
 ### Criterios de evaluación
 
 ---
-* El canvas de equipo permite identificar los acuerdos del equipo para el logro de un proposito común
+* El canvas de equipo permite identificar los acuerdos del equipo para el logro de un propósito común.
 
