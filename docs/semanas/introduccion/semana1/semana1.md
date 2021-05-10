@@ -1,4 +1,4 @@
-## Introducción
+## Conformación equipo
 
 ### Objetivos
 ---
@@ -7,15 +7,21 @@
 
 ### Pasos previos
 ---
-* Ver los videos sobre el marco DAD y la fase de Inception
+* Ver los videos sobre el marco de trabajo DAD y la fase de Inception
 
 ### Contexto del proyecto
 ---
 Lorenzo es un melómano y coleccionista de música que ha pasado toda su vida recopilando álbumes musicales. Con el tiempo, Lorenzo notó que cada vez era más difícil encontrar sus canciones y por esto desarrolló Ionic, una aplicación para organizar su colección y encontrar su musica de forma fácil y rápida.
 
-Su amigo emprendedor vio su solución y le propuso convertirla en una aplicación comercial para el almacenamiento de información musical aplicando a una convocatoria para adquirir recursos, esto implica evolucionar la aplicación actual para convertirla en un Producto Mínimo Viable (MVP, siglas en inglés) usable y escalable a muchos usuarios. Aunque Lorenzo esta de acuerdo con la propuesta de su amigo, no cuenta con los conocimientos ni con el tiempo para desarrollar las nuevas funcionalidades, es por esto que ha decidido contactar a la Universidad de los Andes, con el fin de conseguir un equipo que le ayude a mejorar su aplicación y cautivar a los inversionistas.
+Carlos, Su amigo emprendedor, vio su solución y le propuso convertirla en una aplicación comercial para el almacenamiento de información musical aplicando a una convocatoria para adquirir recursos, esto implica evolucionar la aplicación actual para convertirla en un Producto Mínimo Viable (MVP, siglas en inglés) usable y escalable a muchos usuarios. Aunque Lorenzo esta de acuerdo con la propuesta de su amigo, no cuenta con los conocimientos ni con el tiempo para desarrollar las nuevas funcionalidades, es por esto que ha decidido contactar a la Universidad de los Andes, con el fin de conseguir un equipo que le ayude a mejorar su aplicación y cautivar a los inversionistas.
 
-### Acercamiento al marco
+El reto que tiene el equipo es entregar luego de dos iteraciones (o *sprints*) una versión evolucionada del producto IONIC, esta versión debe incluir las funcionalidades y características que Lorenzo y Carlos consideren más importantes para poder participar en una convocatoria para obtener financiación de inversionistas.
+
+La aplicación se encuentra desarrollada en Python, usando el framework FLASK, Angular para el front y SQL Alcheny y SQLLite para la persistencia.
+
+### Instrucciones para conformar el equipo
+
+### Prácticas y estragegias seleccionadas para la conformación del equipo
 ---
 El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos del Inception. En el marco del proyecto del curso se han tenido en cuenta los siguientes elementos y características para la conformación de los equipos:
 
@@ -30,11 +36,8 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c�
 | Orientación del equipo                    | Mentoria                                                   | Los equipos serán orientados por un profesor y un tutor                                                                                                |
 | Disponibilidad de los miembros del equipo | Tiempo parcial                                             | 12 horas por semana de acuerdo el plan de estudios  |
 
-*Estas características varian dependiendo de la organización o contexto del problema
+*Estas características varian dependiendo de la organización o contexto del problema*
 
-### Resumen de las actividades
----
+### Referencias
 
-| Actividades   |
-|---------------|
-| [Conformación de equipos](https://avargas20.github.io/MISW-Procesos/semanas/introduccion/semana1/s1_equipo)  |
+Ambler, S., & Lines, M. (2020). Choose your wow : A disciplined agile delivery handbook for optimizing your way of working. Capítulo 7.
