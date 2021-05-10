@@ -4,7 +4,7 @@
 ---
 
 * Recoger información pertinente para la conformación de los equipos de trabajo del proyecto.
-* Conformar los equipos teniendo a partir del análisis de la información recogida.
+* Conformar los equipos a partir del análisis de la información recogida.
 
 ### Pasos previos
 ---
