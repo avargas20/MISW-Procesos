@@ -3,9 +3,9 @@
 
 El objetivo del proyecto del curso es aplicar un proceso de desarrollo definido a partir de los principios y prácticas propuestas por los marcos de trabajo ágiles para desarrollar un proyecto de software. 
 
-El proyecto consiste en evolucionar un producto que ya tiene algunas de funcionalidades desarrolladas y su alcance esta definido a partir de los requerimientos documentados en el [enunciado](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Para desarrollar el proyecto se conformarán equipos de 4 estudiantes. El proceso está basado en Scrum e incluye varias prácticas de ingeniería de software y de otros marcos ágiles.
+El proyecto consiste en evolucionar un producto que ya tiene algunas funcionalidades desarrolladas y su alcance está definido a partir de los requerimientos documentados en el [enunciado](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado) abajo descrito. El proyecto se desarrolla en equipos de 4 estudiantes. El proceso está basado en Scrum e incluye varias prácticas de ingeniería de software y de otros marcos ágiles.
 
-Las **semanas 2 y 3** corresponden a la fase de *Inception. Durante esta fase los equipos tendrán que preparar todos los elementos necesarios y suficientes para iniciar el desarrollo: 
+Las **semanas 2 y 3** corresponden a la fase de *Inception*. Durante esta fase los equipos tendrán que preparar todos los elementos necesarios y suficientes para iniciar el desarrollo: 
 
 - Se conforma el equipo de trabajo
 - Se establece el alcance del producto alineado con el contexto organizacional
@@ -16,7 +16,12 @@ Las **semanas 2 y 3** corresponden a la fase de *Inception. Durante esta fase lo
 Las **semanas 4 y 5** corresponden al primer sprint de desarrollo y las **semanas 6 y 7** corresponden al segundo sprint de desarrollo. Durante estos ciclos los equipos tendrán que:
 
 - Realizar la planeación del sprint
-- Desarrollar las historias de usuario utilizando las prácticas vistas en el curso anterior (Prácticas Esenciales de agilismo)
+- Desarrollar las historias de usuario utilizando las siguientes prácticas:
+  -  Manejo de Git como sistema de control de versiones y flujos de trabajo
+  -  Pair programming
+  -  Test-Driven Development (TDD)
+  -  Generación aleatoria de datos en pruebas unitarias
+  -  Integración C
 - Cumplir con las ceremonias (eventos) y artefactos definidos por el marco Scrum 
 - Realizar seguimiento mediante un tablero kanban
 
