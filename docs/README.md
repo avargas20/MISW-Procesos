@@ -1,6 +1,6 @@
 Bienvenidos a la página con las guías para el desarrollo del proyecto del curso.
 
-A continuación encontrarán el material organizado semana a semana y una sección de generalidades:
+A continuación encontrarán el material organizado semana a semana y una sección de generalidades, en la que se describen los aspectos más relevantes del proyecto, acerca del proceso y del producto.
 
 #### [Generalidades](https://avargas20.github.io/MISW-Procesos/generalidades)
 
