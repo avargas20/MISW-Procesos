@@ -3,12 +3,14 @@
 ### Objetivos
 ---
 
+Los objetivos para esta semana, en el marco del desarrollo del proyecto son:
+
 * Recoger información pertinente para la conformación de los equipos de trabajo del proyecto.
 * Conformar los equipos a partir del análisis de la información recogida.
 
 ### Pasos previos
 ---
-* Ver los videos sobre el marco de trabajo DAD y la fase de Inception
+Antes de iniciar las actividades de esta guía, se espera que cada miembro del equipo haya visto los videos del curso sobre el marco DAD y sobre la fase de Inception. 
 
 ### Contexto del proyecto
 ---
