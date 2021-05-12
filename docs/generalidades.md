@@ -17,17 +17,17 @@ Las **semanas 4 y 5** corresponden al primer sprint de desarrollo y las **semana
 
 - Realizar la planeación del sprint
 - Desarrollar las historias de usuario utilizando las siguientes prácticas:
-  -  Manejo de Git como sistema de control de versiones y flujos de trabajo
+  -  Manejo de Git como sistema de control de versiones
+  -  Flujos de trabajo en Git
   -  Pair programming
+  -  Pruebas unitarias
+  -  Generación aleatoria de datos (pruebas unitarias)
   -  Test-Driven Development (TDD)
-  -  Generación aleatoria de datos en pruebas unitarias
-  -  Integración C
+  -  Integración Continua con GitHub Actions
 - Cumplir con las ceremonias (eventos) y artefactos definidos por el marco Scrum 
-- Realizar seguimiento mediante un tablero kanban
+- Realizar seguimiento mediante un tablero Kanban
 
-Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de todo el proceso llevado a cabo.
-
-El proyecto se comienza a desarrollar a partir de la semana 4 del curso. Los equipos se conforman durante las semanas 1 y 2, semana en la cual ya hay actividades en grupo.
+Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de todo el proceso.
 
 ## Enunciado
 ---
@@ -40,13 +40,13 @@ Cuando Lorenzo elige un álbum de la lista, puede ver su información y las canc
 
 Cuando Lorenzo mostró Ionic a sus amigos, estos quedaron encantados y le sugirieron ajustar Ionic para que todos puedan ingresar y utilizarlo, de esta forma, además de servir a Lorenzo para encontrar canciones, podrían compartir información entre todos. Carlos, quien hace parte de este grupo de amigos, pensó que con su ayuda Lorenzo podría convertir esta iniciativa en un emprendimiento para conectar a más melómanos y monetizar el trabajo realizado. Por esto, inició la búsqueda de convocatorias de emprendimiento a las cuales aplicar.
 
-Después de consultar, Carlos le propuso a Lorenzo evolucionar Ionic para convertirlo en un Producto Mínimo Viable (MVP, siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.
+Después de consultar, Carlos le propuso a Lorenzo evolucionar Ionic para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.
 
 Carlos propuso las siguientes funcionalidades:
 
 * **Compartir con amigos**
 
-Se espera que los usuarios registrados en la aplicación puedan compartir  sus álbumes y canciones 
+Se espera que los usuarios registrados en la aplicación puedan compartir  sus álbumes y canciones. 
 
 * **Generar hilos de conversación**
 
@@ -54,10 +54,11 @@ Los usuarios deben poder comentar la información de los álbumes y canciones ge
 
 * **Notificaciones**
 
-Los usuarios podrán saber cuándo las canciones y álbumes compartidos por ellos  han sido comentados y quién lo hizo
-Puntuación
+Los usuarios podrán saber cuándo las canciones y álbumes compartidos por ellos  han sido comentados y quién lo hizo.
 
-Dependiendo de la calidad de los comentarios recibidos, los usuarios podrán calificarse entre sí. El promedio de las calificaciones recibidas se verá reflejado en el perfil del usuario
+* **Puntuación**
+
+Dependiendo de la calidad de los comentarios recibidos, los usuarios podrán calificarse entre sí. El promedio de las calificaciones recibidas se verá reflejado en el perfil del usuario.
 
 * **Canciones favoritas**
 
