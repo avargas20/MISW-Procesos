@@ -83,4 +83,5 @@ Las tecnologías que se utilizarán para desarrollar el proyecto son: Python con
 | Manejador de versiones    | Git         |
 | Repositorio remoto        | Github      |
 | Manejador de IC    | Github (actions), Jenkins  |
-| Gestión del proyecto y documentación    | Jira/Confluence |
+| Documentación del proyecto     | Wiki de GitHub |
+| Gestión del proyecto      | Jira |
