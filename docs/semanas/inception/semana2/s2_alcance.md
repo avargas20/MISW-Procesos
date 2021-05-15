@@ -7,42 +7,42 @@
 ### Objetivos
 
 ---
-* Explorar el alcance mediante la construcción del Visual Story Map (VSM) de la solución
+Explorar el alcance mediante la construcción del Visual Story Map (VSM) de la solución.
 
 ### Pasos previos
 
 ---
-* Leer el enunciado del proyecto. Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**
+Leer el enunciado del proyecto. Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**.
 
 ### Descripción actividad
 
 ---
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Realice una propuesta individual del VSM de la solución
+* Realice una propuesta individual del VSM de la solución.
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL de la solución
-* El PO de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario con el profesor/tutor y el resto de los integrantes del equipo deben realizar el ejercicio de slicing **(Pendiente)** sobre las HU que tienen
-* De acuerdo a la reunión de priorización ajustar el VSM y organizar el listado priorizado de HU
-* Cargar las épicas e historias de usuario del proyecto en Jira
-* Cargar el VSM en Confluence 
+* Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL de la solución.
+* El Product Owner de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario con el profesor / tutor y el resto de los integrantes del equipo deben realizar el ejercicio de slicing **(Pendiente)** sobre las HU que tienen.
+* De acuerdo a la reunión de priorización ajustar el VSM y organizar el listado priorizado de historias de usuario.
+* Cargar las épicas e historias de usuario del proyecto en Jira.
+* Cargar el VSM en la Wiki del equipo.
 
 ### Recursos 
 
 ---
-* [Plantilla VSM](https://miro.com/app/board/o9J_lQLM1Us=/)
+* [Ejemplo: Definición del alcance - Productos Orgánicos](https://miro.com/app/board/o9J_lQLM1Us=/)
 
 ### Entregables
 
 ---
-* VSM grupal
-* Listado priorizado de historias de usuario 
+* VSM grupal.
+* Listado priorizado de historias de usuario.
 
 ### Criterios de evaluación
 
 ---
 
-* El VSM contempla la identificación de usuarios, épicas, historias de usuario y planes de lanzamiento del producto
-* El listado de historias de usuario se encuentra priorizado de acuerdo con reunión de priorización con PO
+* El VSM contempla la identificación de usuarios, épicas, actividades, historias de usuario y planes de lanzamiento del producto.
+* El listado de historias de usuario se encuentra priorizado de acuerdo con reunión de priorización con el PO.
