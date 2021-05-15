@@ -25,7 +25,7 @@
 
 ---
 * Canvas del equipo en Miro
-* Enlace al canvas de equipo en la WIKI del proyecto
+* Enlace al canvas de equipo en la Wiki del proyecto
 
 ### Criterios de evaluación
 
