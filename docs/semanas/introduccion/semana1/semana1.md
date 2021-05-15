@@ -1,4 +1,4 @@
-## Conformación equipo
+## Conformación de equipos
 
 ### Objetivos
 ---
