@@ -33,7 +33,7 @@ Realizar la planeación general del proyecto.
 ### Recursos 
 
 ---
-* [DoD](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD)
+* [DoD primer sprint](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD)
 * [Instructivo para conducir una sesión de Planning Poker](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planning_poker)
 * [Formato para cálculo de velocidad del equipo](https://github.com/avargas20/MISW-Procesos/blob/main/docs/formats/MISW-DA-Inception-CalculoVelocidad.xlsx)
 
