@@ -3,7 +3,7 @@
 ### Objetivos
 ---
 
-Los objetivos para esta semana, en el marco del desarrollo del proyecto son:
+Los objetivos para esta semana, en el marco del desarrollo del proyecto del curso son:
 
 * Realizar el alistamiento del ambiente de desarrollo.
 * Definir la estrategia inicial de arquitectura.
@@ -28,18 +28,14 @@ Como hemos visto en semanas anteriores, el marco DAD favorece la adaptabilidad d
 | Investigar sobre activos heredados               | Analizar fuentes de datos / Leer la documentación existente | El equipo realizará un analisis de la arquitectura y código fuente de la aplicación base para empezar a trabajar en los nuevos requerimientos.            |
 | Nivel de detalle del documento de arquitectura    | Alto nivel                                                  |            |
 
-Ambler, S., & Lines, M. (2020). Chapter 10: Identify Architecture Strategy en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 145-158). Project Management Institute.
-
 * #### Planeación de entregas
 
 | Puntos de decisión                                        | Práctica                                                    | Descripción |
 |--------------------------------------------------|-------------------------------------------------------------|-------------|
 | Fuente del plan                   | *Stakeholders*                                         | El *Product Owner* como representante de los *stakeholders* es el encargado de definir las entregas y las historias de usuario involucradas en cada sprint.         |
-| Alcance                                          | Release                                                     | El alcance de cada plan se define mediante Releases.            |
+| Alcance                                          | *Release*                                                     | El alcance de cada plan se define mediante *releases*.            |
 | Estrategia de estimación / Unidad de estimación                        | *Planning poker* /Puntos de historia de usuario                                              | Las historias de usuario del PBL son estimadas en sesiones de *Planning Poker* utilizando puntos de historia de usuario.            |
 | Capturar el plan                                 | *Burndown chart*                                              | El equipo tendrá acceso a este y otros reportes generados en Jira para visualizar el progeso a través del tiempo.            |
-
-Ambler, S., & Lines, M. (2020). Chapter 11: Plan the Release en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 159-172). Project Management Institute.
 
 
 ### Resumen de las actividades
@@ -52,3 +48,10 @@ Ambler, S., & Lines, M. (2020). Chapter 11: Plan the Release en *Choose your wow
 | [Estrategia de arquitectura](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_arquitectura)  |
 | [Estimación y planeación](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planeacion)|
 | [Definición de riesgos](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_riesgos)|
+
+### Referencias
+---
+
+* Ambler, S., & Lines, M. (2020). Chapter 10: Identify Architecture Strategy en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 145-158). Project Management Institute.
+* Ambler, S., & Lines, M. (2020). Chapter 11: Plan the Release en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 159-172). Project Management Institute.
+
