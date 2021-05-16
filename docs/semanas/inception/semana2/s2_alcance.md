@@ -12,7 +12,7 @@ Explorar el alcance mediante la construcción del Visual Story Map (VSM) de la s
 ### Pasos previos
 
 ---
-Leer el enunciado del proyecto. Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**.
+Leer el [enunciado del proyecto](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado) en la sección de [Generalidades](https://avargas20.github.io/MISW-Procesos/generalidades). Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**.
 
 ### Descripción actividad
 
