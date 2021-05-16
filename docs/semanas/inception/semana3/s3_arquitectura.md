@@ -22,7 +22,7 @@ Diseñar la arquitectura del producto teniendo en cuenta los requerimientos glob
    * Un modelo de clases.
    * Un modelo de despliegue.
 
-* Plasmar la estructura propuesta en la wiki del proyecto.
+* Plasmar la estructura propuesta y cargar los modelos elaborados en la wiki del proyecto.
 
 
 ### Recursos 
@@ -40,5 +40,5 @@ URL a la wiki del proyecto.
 
 ---
 
-* Se evidencia la estructura solicitada para registrar la información de la estrategia de arquitectura en la wiki.
+* Se evidencia la creación de la estructura solicitada para registrar la información de la estrategia de arquitectura en la wiki.
 * La arquitectura inicial del proyecto contiene los modelos definidos en la estructura proporcionada.
