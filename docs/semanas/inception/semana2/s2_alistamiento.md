@@ -7,13 +7,13 @@
 ### Objetivos
 
 ---
-* Estructurar el espacio para la gestión y documentación del proyecto en Jira y la Wiki de GitHub
+* Estructurar el espacio para la gestión y documentación del proyecto en Jira y la Wiki de GitHub.
 
 
 ### Pasos previos
 
 ---
-* Cada integrante del equipo debe crear una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira).
+Cada integrante del equipo debe crear una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira).
 
 ~~~
 Las funcionalidades de la versión gratuita son suficientes para la gestión del proyecto del curso. 
@@ -27,6 +27,8 @@ una tarjeta de crédito y la disponibilidad de la información registrada se pon
 ---
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
+
+Las actividades que deben realizar como parte del alistamiento son:
 
 * Crear el proyecto en Jira e invitar a los integrantes del equipo (incluya al profesor y tutor del curso)
 * Estructurar el espacio para la documentación del proyecto en la Wiki de GitHub teniendo en cuenta la guía disponible en Recursos
