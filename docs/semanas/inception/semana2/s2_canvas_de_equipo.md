@@ -7,19 +7,23 @@
 ### Objetivos
 
 ---
-* Establecer acuerdos de equipo mediante la definición del Canvas de Equipo
+Generar acuerdos para el trabajo en equipo utilizando el Canvas de Equipo.
+
+### Pasos previos
+---
+Para el desarrollo de esta actividad es necesario haber realizado la actividad de Conformación de equipos y contar con un equipo establecido.
 
 ### Descripción actividad
 
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo de acuerdo con las instrucciones del formato proporcionado
+Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo de acuerdo con las instrucciones del formato proporcionado.
 
 ### Recursos 
 
 ---
-* [Formato Canvas de equipo](https://miro.com/app/board/o9J_lQEeUlQ=/)
+[Formato Canvas de equipo](https://miro.com/app/board/o9J_lQEeUlQ=/)
 
 ### Entregables
 
