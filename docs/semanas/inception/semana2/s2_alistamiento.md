@@ -49,6 +49,7 @@ Las actividades que deben realizar como parte del alistamiento son:
 ### Criterios de evaluación
 
 ---
+* Se evidencia la creación del proyecto en Jira (todos los integrantes del equipo, el profesor y el tutor tienen acceso)
 * Se evidencia en la Wiki la estructuración de la documentación y la información de los integrantes del equipo
 
 
