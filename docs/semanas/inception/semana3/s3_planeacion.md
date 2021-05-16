@@ -19,7 +19,7 @@ Realizar la planeación general del proyecto.
    * Escoger la HUB para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el *backend* como en el *frontend*).
    * Identificar con detalle las actividades necesarias para desarrollar la HUB sobre la arquitectura propuesta.
    * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5).
-   * Tener en cuenta los criterios para la [definición de terminado (DoD, por sus siglas en ingles)](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_DoD).
+   * Tener en cuenta los criterios para la definición de terminado ([DoD](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD), por sus siglas en ingles).
 * Estimar todo el *Product Backlog* (PBL)
    * Dada la HUB seleccionada, cada equipo debe estimar las historias de usuario (HU) del PBL del proyecto, utilizando la técnica de *Planning Poker*.
    * Registrar el resultado de la estimación en el PBL en Jira.
@@ -33,7 +33,7 @@ Realizar la planeación general del proyecto.
 ### Recursos 
 
 ---
-* [DoD](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_DoD)
+* [DoD](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD)
 * [Instructivo para conducir una sesión de Planning Poker](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planning_poker)
 * [Formato para cálculo de velocidad del equipo](https://github.com/avargas20/MISW-Procesos/blob/main/docs/formats/MISW-DA-Inception-CalculoVelocidad.xlsx)
 
