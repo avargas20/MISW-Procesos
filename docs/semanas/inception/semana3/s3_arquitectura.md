@@ -7,7 +7,7 @@
 ### Objetivos
 
 ---
-* Diseñar la arquitectura del producto teniendo en cuenta los requerimientos globales (PBL), el lenguaje de programación y los frameworks de desarrollo que se van a utilizar
+Diseñar la arquitectura del producto teniendo en cuenta los requerimientos globales (*Product Backlog*), el lenguaje de programación y los *frameworks* de desarrollo que se van a utilizar.
 
 
 ### Descripción actividad
@@ -17,28 +17,28 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Realizar el diseño de la arquitectura de la solución teniendo en cuenta la estructura del documento disponible en Recursos. Como mínimo se espera:
-   * Un diagrama de contexto
-   * Un diagrama de componentes donde represente el stack tecnológico utilizado
-   * Un diagrama de clases
-   * Un diagrama de despliegue
+   * Un modelo de contexto.
+   * Un modelo de componentes.
+   * Un modelo de clases.
+   * Un modelo de despliegue.
 
-* Cargar el documento de arquitectura en Confluence
+* Plasmar la estructura propuesta en la wiki del proyecto.
 
 
 ### Recursos 
 
 ---
-* Estructura del documento de arquitectura *(Pendiente definir de acuerdo con lo visto en clase con Dario Correal)*
+[Guía para el diseño de la arquitectura inicial del proyecto](https://uniandes.sharepoint.com/:w:/s/mod/EfBEsRY9NyVBrHFgdGXuUqAB1-RWBwcxZD-FzlzbhevaFg?e=hw9YVE)
 
 
 ### Entregables
 
 ---
-* URL al espacio del equipo en Jira/Confluence
+URL a la wiki del proyecto.
 
 ### Criterios de evaluación
 
 ---
 
-* El documento de arquitectura contiene las vistas y modelos definidos en la estructura proporcionada
-* El documento de arquitectura se encuentra en Confluence
+* Se evidencia la estructura solicitada para registrar la información de la estrategia de arquitectura en la wiki.
+* La arquitectura inicial del proyecto contiene los modelos definidos en la estructura proporcionada.
