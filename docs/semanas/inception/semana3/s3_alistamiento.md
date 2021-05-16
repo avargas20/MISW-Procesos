@@ -7,24 +7,20 @@
 ### Objetivos
 
 ---
-* Configurar el ambiente de desarrollo de cada uno de los integrantes del equipo
-* Definir el flujo de trabajo que el equipo va a utilizar sobre el manejador de versiones para iniciar la implementación del proyecto
-
-### Pasos previos
----
-Verificar el acceso de cada uno de los integrantes del equipo al repositorio asignado
+* Configurar el ambiente de desarrollo de cada uno de los integrantes del equipo.
+* Definir el flujo de trabajo que el equipo va a utilizar en Git para iniciar la implementación del proyecto.
 
 ### Descripción actividad
 
 ---
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Realizar la instalación y configuración del ambiente de desarrollo de acuerdo con las instrucciones proporcionadas
+Realizar la instalación y configuración del ambiente de desarrollo de acuerdo con las instrucciones proporcionadas.
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Acordar el flujo de trabajo que se seguirá para la implementación y consignar el acuerdo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html)
-* Documentar los acuerdos en Confluence
+* Acordar el flujo de trabajo que se seguirá para la implementación y consignar el acuerdo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
+* Documentar los acuerdos en la wiki del proyecto.
 
 
 ### Recursos 
@@ -37,10 +33,10 @@ Verificar el acceso de cada uno de los integrantes del equipo al repositorio asi
 ### Entregables 
 
 ---
-* URL al espacio del equipo en Jira/Confluence
+* URL al espacio del equipo en Jira
 * URL al repositorio en GitHub
 
 ### Criterios de evaluación
 ---
 
-* Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado
+* Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado.
