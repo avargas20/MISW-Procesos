@@ -34,5 +34,5 @@ Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo de a
 ### Criterios de evaluación
 
 ---
-* El canvas de equipo permite identificar los acuerdos del equipo para el logro de un propósito común.
+* El canvas de equipo, completamente diligenciado, permite identificar los acuerdos del equipo para el logro de un propósito común.
 
