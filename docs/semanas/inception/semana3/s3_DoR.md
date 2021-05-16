@@ -22,5 +22,7 @@ Algunos de los criterios a tener en cuenta de acuerdo con Rubin (2013) son:
 - Los criterios de aceptación son claros y verificables.
 - El equipo comprende cómo mostrar la HU durante la demostración al *Product Owner* (PO).
 
+### Referencias
+---
 
 *Rubin, K. (2013). Essential Scrum- A practical guide to the most popular agile process. Estados Unidos: Addison Wesley*
