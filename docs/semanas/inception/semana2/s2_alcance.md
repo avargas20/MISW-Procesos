@@ -12,7 +12,7 @@ Explorar el alcance mediante la construcción del Visual Story Map (VSM) de la s
 ### Pasos previos
 
 ---
-Leer el [enunciado del proyecto](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado) en la sección de Generalidades. Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**.
+Antes de realizar esta actividad, el equipo debe conocer el [enunciado del proyecto](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**.
 
 ### Descripción actividad
 
@@ -23,26 +23,27 @@ Leer el [enunciado del proyecto](https://avargas20.github.io/MISW-Procesos/gener
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL de la solución.
-* El Product Owner de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario con el profesor / tutor y el resto de los integrantes del equipo deben realizar el ejercicio de slicing **(Pendiente)** sobre las HU que tienen.
-* De acuerdo a la reunión de priorización ajustar el VSM y organizar el listado priorizado de historias de usuario.
-* Cargar las épicas e historias de usuario del proyecto en Jira.
+* En equipo, socializar las propuestas individuales y realizar la construcción colectiva del VSM y *Product Backlog* (PBL) de la solución.
+* El *Product Owner* (PO) de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario (HU) con el profesor / tutor y el resto de los integrantes del equipo deben realizar el ejercicio de *slicing* **(Pendiente)** sobre las HU que tienen.
+* De acuerdo a la reunión de priorización ajustar el VSM y organizar el listado priorizado de HU.
+* Cargar las épicas e HU del proyecto en Jira.
 * Cargar el VSM en la Wiki del equipo.
 
 ### Recursos 
 
 ---
-* [Ejemplo: Definición del alcance - Productos Orgánicos](https://miro.com/app/board/o9J_lQLM1Us=/)
+Este ejemplo muestra el VSM y la primera pila de producto del caso "Mercados Orgánicos", obtenidos al utilizar la técnica de User Story Mapping:
+https://miro.com/app/board/o9J_lQKbLXc=/
 
 ### Entregables
 
 ---
 * VSM grupal.
-* Listado priorizado de historias de usuario.
+* Listado priorizado de HU (PBL).
 
 ### Criterios de evaluación
 
 ---
 
-* El VSM contempla la identificación de usuarios, épicas, actividades, historias de usuario y planes de lanzamiento del producto.
-* El listado de historias de usuario se encuentra priorizado de acuerdo con reunión de priorización con el PO.
+* El VSM contempla la identificación de usuarios, épicas, actividades, HU y planes de lanzamiento del producto.
+* El listado de HU se encuentra priorizado de acuerdo con reunión de priorización con el PO.
