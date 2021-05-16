@@ -7,7 +7,7 @@
 ### Objetivos
 
 ---
-* Realizar la planeación general del proyecto
+Realizar la planeación general del proyecto.
 
 
 ### Descripción actividad
@@ -15,36 +15,37 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Escoger la historia de usuario base
-   * Escoger la HU base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el backend como en el frontend)
-   * Identificar con detalle las actividades necesarias para desarrollar esta historia sobre la arquitectura propuesta
-   * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5)
-   * Tener en cuenta los criterios del equipo para la [definición de terminado (DoD)](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_DoD)
-* Estimar todo el PBL
-   * Dada la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de Planning Poker
-   * Registrar el resultado de la estimación en el PBL en Jira
+* Escoger la historia de usuario base (HUB)
+   * Escoger la HUB para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el *backend* como en el *frontend*).
+   * Identificar con detalle las actividades necesarias para desarrollar la HUB sobre la arquitectura propuesta.
+   * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5).
+   * Tener en cuenta los criterios para la [definición de terminado (DoD, por sus siglas en ingles)](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_DoD).
+* Estimar todo el *Product Backlog* (PBL)
+   * Dada la HUB seleccionada, cada equipo debe estimar las historias de usuario (HU) del PBL del proyecto, utilizando la técnica de *Planning Poker*.
+   * Registrar el resultado de la estimación en el PBL en Jira.
 * Cálculo de la velocidad del equipo
-   * Utilizando la técnica de Planning Poker estimar en horas las actividades para desarrollar la HU base (se deben tener en cuenta todas las actividades)
-   * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en Confluence
-* Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance de cada sprint
-   * Proponer un listado de historias de usuario candidatas para ser incluidas en el primer sprint
+   * Utilizando la técnica de *Planning Poker* estimar en horas las actividades para desarrollar la HUB (se deben tener en cuenta todas las actividades).
+   * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en la Wiki.
+* Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance del sprint
+   * Proponer un listado de historias de usuario candidatas para ser incluidas en el primer sprint y cargarlo en la Wiki.
 
  
 ### Recursos 
 
 ---
 * [Instructivo para conducir una sesión de Planning Poker](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planning_poker)
-* [Formato para cálculo de velocidad del equipo](https://uniandes.sharepoint.com/:x:/s/mod/EaFGVWA394xLlQW062vwKBMBzqxOKxb2z7Y_u-KZ84bHDQ?e=2CMAnO)
-* [Guía de ejemplo para la Definición de Terminado (Definition of Done - DoD)](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_DoD)
+* [Formato para cálculo de velocidad del equipo](https://github.com/avargas20/MISW-Procesos/blob/main/docs/formats/MISW-DA-Inception-CalculoVelocidad.xlsx)
+* [DoD](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_DoD)
 
 ### Entregables
 
 ---
-* Cálculo de velocidad del equipo
-* Listado de HU propuestas para el primer Sprint
-* URL al espacio del equipo en Jira/Confluence
+* URL a la wiki del proyecto en GitHub.
+* URL al espacio del equipo en Jira.
 
 ### Criterios de evaluación
 
 ---
-* En Jira se evidencia la creación del primer sprint con las historias de usuario propuestas y el formato para cálculo de la velocidad del equipo
+* El PBL en Jira tiene las estimaciones de cada HU.
+* El formato para el cálculo de la velocidad del equipo se encuentra completamente diligenciado.
+* El listado de HU propuestas para el sprint se encuentra en la wiki.
