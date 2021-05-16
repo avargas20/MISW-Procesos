@@ -13,7 +13,10 @@
 ### Pasos previos
 
 ---
-Cada integrante del equipo debe crear una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira).
+Para realizar esta actividad, se espera que cada integrante del equipo:
+
+* Verifique su acceso al repositorio asignado en Git.
+* Cree una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira).
 
 ~~~
 Las funcionalidades de la versión gratuita son suficientes para la gestión del proyecto del curso. 
