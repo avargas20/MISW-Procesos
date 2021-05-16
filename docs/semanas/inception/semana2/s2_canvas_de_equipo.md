@@ -18,7 +18,7 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo de acuerdo con las instrucciones del formato proporcionado.
+Realizar una reunión con los miembros del equipo para diligenciar el Canvas de acuerdo con las instrucciones del formato proporcionado.
 
 ### Recursos 
 
