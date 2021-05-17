@@ -7,12 +7,15 @@
 ### Objetivos
 
 ---
-Explorar el alcance mediante la construcción del Visual Story Map (VSM) de la solución.
+* Construir un *User Story Map* para la nueva versión del producto.
+* Priorizar el *User Story Map* con el dueño de producto.
+* A partir del mapa construir *backlog* y registrarlo en la herramienta JIRA.
 
 ### Pasos previos
 
 ---
-Antes de realizar esta actividad, el equipo debe conocer el [enunciado del proyecto](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). Si surgen preguntas o requieren aclaraciones, escriban en el foro de **Preguntas al cliente**.
+* Leer con atención el [enunciado del proyecto](https://avargas20.github.io/MISW-Procesos/generalidades#enunciado). 
+* Resolver las dudas o preguntas que surjan del enunciado a través del foro **Preguntas al cliente**.
 
 ### Descripción actividad
 
@@ -23,22 +26,21 @@ Antes de realizar esta actividad, el equipo debe conocer el [enunciado del proye
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* En equipo, socializar las propuestas individuales y realizar la construcción colectiva del VSM y *Product Backlog* (PBL) de la solución.
-* El *Product Owner* (PO) de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario (HU) con el profesor / tutor y el resto de los integrantes del equipo deben realizar el ejercicio de *slicing* **(Pendiente)** sobre las HU que tienen.
-* De acuerdo a la reunión de priorización ajustar el VSM y organizar el listado priorizado de HU.
-* Cargar las épicas e HU del proyecto en Jira.
-* Cargar el VSM en la Wiki del equipo.
+* En equipo, socializar las propuestas individuales y realizar la construcción colectiva del mapa de usuario y del *Product Backlog* (PBL) de la solución. 
+* El *Product Owner* (PO) de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario (HU) con el profesor / tutor y el resto de los integrantes del equipo deben realizar el ejercicio de  **(Pendiente)** sobre las HU que tienen.
+* De acuerdo a la reunión de priorización ajustar el VSM y organizar el listado priorizado de HU. Si es necesario partir las historias grandes en historias pequeñas utilizando las técnicas de *slicing* propuestas.
+* Cargar las épicas y las historias de usuario en el proyecto en Jira. En esta primera versión del PBL, las historias se deben identificar y tener un enunciado de la forma "Como *XXX* quisiera que *YYY* para *ZZZ*, una descripción.
+* Colocar el User Story Map (o un enlace a este) en la Wiki del equipo.
 
 ### Recursos 
 
 ---
-Este ejemplo muestra el VSM y la primera pila de producto del caso "Mercados Orgánicos", obtenidos al utilizar la técnica de User Story Mapping:
-https://miro.com/app/board/o9J_lQKbLXc=/
+[Ejemplo user story map](https://miro.com/app/board/o9J_lQKbLXc=/): Este ejemplo muestra el mapas de historias de usuario y la primera pila de producto del caso "Mercados Orgánicos", obtenidos al utilizar la técnica de User Story Mapping.
 
 ### Entregables
 
 ---
-* VSM grupal.
+* Mapa de historias de usuarios grupal.
 * Listado priorizado de HU (PBL).
 
 ### Criterios de evaluación
