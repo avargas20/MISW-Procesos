@@ -7,9 +7,9 @@
 ### Objetivos
 
 ---
-* Construir un *User Story Map* para la nueva versión del producto.
-* Priorizar el *User Story Map* con el dueño de producto.
-* A partir del mapa construir *backlog* y registrarlo en la herramienta JIRA.
+* Construir un mapa de historias de usuario para la nueva versión del producto.
+* Priorizar el mapa de historias de usuario con el dueño de producto.
+* A partir del mapa construir *product backlog* (PBL) y registrarlo en la herramienta JIRA.
 
 ### Pasos previos
 
@@ -22,11 +22,11 @@
 ---
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Realice una propuesta individual del VSM de la solución.
+* Realice una propuesta individual del mapa de historias de usuario de la solución.
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* En equipo, socializar las propuestas individuales y realizar la construcción colectiva del mapa de usuario y del *Product Backlog* (PBL) de la solución. 
+* En equipo, socializar las propuestas individuales y realizar la construcción colectiva del mapa de usuario y del PBL de la solución. 
 * El *Product Owner* (PO) de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario (HU) con el profesor / tutor y el resto de los integrantes del equipo deben realizar el ejercicio de  **(Pendiente)** sobre las HU que tienen.
 * De acuerdo a la reunión de priorización ajustar el VSM y organizar el listado priorizado de HU. Si es necesario partir las historias grandes en historias pequeñas utilizando las técnicas de *slicing* propuestas.
 * Cargar las épicas y las historias de usuario en el proyecto en Jira. En esta primera versión del PBL, las historias se deben identificar y tener un enunciado de la forma "Como *XXX* quisiera que *YYY* para *ZZZ*, una descripción.
@@ -47,5 +47,5 @@
 
 ---
 
-* El VSM contempla la identificación de usuarios, épicas, actividades, HU y planes de lanzamiento del producto.
-* El listado de HU se encuentra priorizado de acuerdo con reunión de priorización con el PO.
+* El mapa de historias de usuario contempla la identificación de usuarios, épicas, actividades, historias de usuario y planes de lanzamiento del producto.
+* El PBL se encuentra priorizado de acuerdo con reunión de priorización con el dueño de producto.
