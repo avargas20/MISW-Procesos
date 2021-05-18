@@ -30,7 +30,7 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c�
 
 | Actividad                                     | Puntos de decisión                                     | Práctica o Estrategia                                  | Descripción     |
 |-----------------------------------------------|-----------------------------------------------|--------------------------------------------|-----------------|
-|Generación de acuerdos de equipo| Origen de los miembros del equipo         | Equipo nuevo                                               | Los integrantes probablemente no han trabajado juntos en proyectos anteriores.                                                                          |
+|Generación de acuerdos de equipo [1]| Origen de los miembros del equipo         | Equipo nuevo                                               | Los integrantes probablemente no han trabajado juntos en proyectos anteriores.                                                                          |
 | | Tamaño del equipo                         | Equipo pequeño                                             | Máximo 4 personas.                                                                                                                                      |
 | | Estructura del equipo                     | Un sólo equipo                                             | Cada equipo aborda por separado el desarrollo e implementación de la solución.                                                                          |
 | | Habilidades de los miembros del equipo    | Generalistas y especialistas                               | Se espera que los miembros del equipo cuenten con distintas habilidades para complementarse en el desarrollo de las actividades.                                                          |
@@ -38,7 +38,7 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c�
 | | Distribución geográfica                   | Miembros totalmente distribuidos / Múltiples zonas horarias | Dada la naturaleza del curso es muy probable que los miembros del equipo se encuentren distribuidos geográficamente y tengan diferentes zonas horarias. |
 | | Orientación del equipo                    | Mentoría                                                   | Los equipos serán orientados por un profesor y un tutor.                                                                                                |
 | | Disponibilidad de los miembros del equipo | Tiempo parcial                                             | Entre 7-8 horas por semana para el proyecto y en concordancia con el programa del curso.  |
-|Explorar el alcance | Definir una estrategia de modelado            | Entrevistas                                | Con el enunciado del proyecto  y a través de la participación en el Foro de Preguntas al Cliente los miembros del equipo podrán indagar sobre las expectativas de los *stakeholders* y las funcionalidades a implementar. |
+|Explorar el alcance [2]| Definir una estrategia de modelado            | Entrevistas                                | Con el enunciado del proyecto  y a través de la participación en el Foro de Preguntas al Cliente los miembros del equipo podrán indagar sobre las expectativas de los *stakeholders* y las funcionalidades a implementar. |
 | | Explorar el uso                               | *User Story Map* (USM)                          | A partir de la construcción del USM de la solución el equipo podrá identificar los principales usuarios y funcionalidades de la aplicación. |
 | | Estrategia de gestión de elementos de trabajo | *Product Backlog* (PBL)                            | Se espera que las épicas e historias de usuario (HU) identificadas en el USM sirvan como insumo para elaborar un product backlog completo y priorizado de acuerdo con las necesidades de los *stakeholders*.              |
 | | Explorar el dominio                           | Modelo conceptual / dominio                  | Mediante la elaboración del modelo de dominio de la solución se espera identificar las entidades y las relaciones claves en el contexto del proyecto.                |
@@ -49,5 +49,5 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c�
 ### Referencias
 ---
 
-* Ambler, S., & Lines, M. (2020). Chapter 7: Form Team en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 109-124). Project Management Institute.
-* Ambler, S., & Lines, M. (2020). Chapter 9: Explore Scope en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 133-144). Project Management Institute.
+[1] Ambler, S., & Lines, M. (2020). Chapter 7: Form Team en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 109-124). Project Management Institute.
+[2] Ambler, S., & Lines, M. (2020). Chapter 9: Explore Scope en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 133-144). Project Management Institute.
