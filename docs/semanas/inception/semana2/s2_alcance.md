@@ -35,7 +35,7 @@ Realice una propuesta individual del mapa de historias de usuario de la solució
 ### Recursos 
 
 ---
-[Ejemplo *user story map*](https://miro.com/app/board/o9J_lQKbLXc=/): Este ejemplo muestra el mapa de historias de usuario y la primera pila de producto del caso "Mercados Orgánicos", obtenidos al utilizar la técnica de *User Story Mapping*.
+[Ejemplo *User Story Map*](https://miro.com/app/board/o9J_lQKbLXc=/): este ejemplo muestra el mapa de historias de usuario y la primera pila de producto del caso "Mercados Orgánicos", obtenidos al utilizar la técnica de *User Story Mapping*.
 
 ### Entregables
 
