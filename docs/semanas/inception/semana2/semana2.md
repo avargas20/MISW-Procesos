@@ -50,4 +50,5 @@ El marco DAD proporciona diferentes lineamientos que nos permiten identificar c√
 ---
 
 [1] Ambler, S., & Lines, M. (2020). Chapter 7: Form Team en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 109-124). Project Management Institute.
+
 [2] Ambler, S., & Lines, M. (2020). Chapter 9: Explore Scope en *Choose your wow : A disciplined agile delivery handbook for optimizing your way of working* (pp. 133-144). Project Management Institute.
