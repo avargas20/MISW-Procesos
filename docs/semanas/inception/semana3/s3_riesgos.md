@@ -1,5 +1,5 @@
 
-## Definición de riesgos
+## Identificación de riesgos
 
 ### Objetivos
 
