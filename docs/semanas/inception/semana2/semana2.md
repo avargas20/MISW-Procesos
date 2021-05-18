@@ -20,13 +20,7 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto son:
 ### Prácticas y estrategias aplicadas de DAD
 ---
 
-El marco DAD recoge diferentes prácticas para obtener y capturar los requisitos iniciales de la solución, la selección de éstas depende de las necesidades de la organización y la experiencia del equipo en proyectos ágiles. 
-
-En el marco del proyecto del curso se proponen las siguientes prácticas:
-
----
-
-El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos de la Fase de inicio. En el marco del proyecto del curso se han tenido en cuenta los siguientes elementos y características para la conformación de los equipos:
+El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos de la Fase de inicio. En el marco del proyecto del curso se han tenido en cuenta las siguientes prácticas o estrategias para la conformación de los equipos y para obtener y capturar los requisitos iniciales de la solución:
 
 | Actividad                                     | Puntos de decisión                                     | Práctica o Estrategia                                  | Descripción     |
 |-----------------------------------------------|-----------------------------------------------|--------------------------------------------|-----------------|
