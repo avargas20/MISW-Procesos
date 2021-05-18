@@ -3,7 +3,7 @@
 ### Objetivos
 
 ---
-* Orientar al	equipo de	trabajo	en la organización de	los	artefactos generados durante el	desarrollo del proyecto	del	curso
+Orientar al	equipo de	trabajo	en la organización de	los	artefactos generados durante el	desarrollo del proyecto	del	curso.
 
 ### Descripción
 ---
