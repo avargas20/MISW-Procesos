@@ -10,7 +10,7 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto son:
 
 ### Pasos previos
 ---
-Antes de iniciar las actividades de esta guía, se espera que cada miembro del equipo haya visto los videos del curso sobre el marco DAD y sobre la fase de Inception. 
+Antes de iniciar las actividades de esta guía, se espera que cada miembro del equipo haya visto los videos del curso sobre el marco DAD y sobre la Fase de inicio. 
 
 ### Contexto del proyecto
 ---
@@ -38,7 +38,7 @@ La aplicación se encuentra desarrollada en Python, usando el framework Flask, A
 ### Prácticas y estrategias aplicadas de DAD
 ---
 
-El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos del Inception. En el marco del proyecto del curso se han tenido en cuenta los siguientes elementos y características para la conformación de los equipos:
+El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos de la Fase de inicio. En el marco del proyecto del curso se han tenido en cuenta los siguientes elementos y características para la conformación de los equipos:
 
 | Elemento                                  | Característica                                             | Descripción                                                                                                                                            |
 |-------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
