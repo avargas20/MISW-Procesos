@@ -35,25 +35,3 @@ La aplicación se encuentra desarrollada en Python, usando el framework Flask, A
 3. Teniendo en cuenta las recomendaciones para conformar un equipo, contacte a través de Slack a compañeros con los cuales considere puede formar un buen equipo. Consulte en el archivo CarectizaciónEstudiantes **(enlace)** las principales características de sus compañeros de clase. Tambien puede revisar los mapas personales de sus compañeros en el foro Presentación.
 4. Cuando ya tengan un equipo formado, en el mismo archivo CarectizaciónEstudiantes, marquen las filas de cada uno con **Ya tiene equipo** y en la hoja **Equipos** agreguen la información de su equipo.
 5. Hacer una reunión con sus compañeros de equipo con el propósito de empezar a conocerse. Como primera parte de esta reunión compartan las respuestas que dieron en el test "Déjanos conocerte".
-
-### Prácticas y estrategias aplicadas de DAD
----
-
-El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos de la Fase de inicio. En el marco del proyecto del curso se han tenido en cuenta los siguientes elementos y características para la conformación de los equipos:
-
-| Elemento                                  | Característica                                             | Descripción                                                                                                                                            |
-|-------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Origen de los miembros del equipo         | Equipo nuevo                                               | Los integrantes probablemente no han trabajado juntos en proyectos anteriores.                                                                          |
-| Tamaño del equipo                         | Equipo pequeño                                             | Máximo 4 personas.                                                                                                                                      |
-| Estructura del equipo                     | Un sólo equipo                                             | Cada equipo aborda por separado el desarrollo e implementación de la solución.                                                                          |
-| Habilidades de los miembros del equipo    | Generalistas y especialistas                               | Se espera que los miembros del equipo cuenten con distintas habilidades para complementarse en el desarrollo de las actividades.                                                          |
-| Longevidad del equipo                     | Duración del proyecto                                        | 8 semanas de acuerdo con la duración del curso.                                                                                                         |
-| Distribución geográfica                   | Miembros totalmente distribuidos / Múltiples zonas horarias | Dada la naturaleza del curso es muy probable que los miembros del equipo se encuentren distribuidos geográficamente y tengan diferentes zonas horarias. |
-| Orientación del equipo                    | Mentoría                                                   | Los equipos serán orientados por un profesor y un tutor.                                                                                                |
-| Disponibilidad de los miembros del equipo | Tiempo parcial                                             | Entre 7-8 horas por semana para el proyecto y en concordancia con el programa del curso.  |
-
-*Estas características varían dependiendo de la organización o contexto del problema.*
-
-### Referencias
-
-Ambler, S., & Lines, M. (2020). Chapter 7: Form Team en Choose your wow : A disciplined agile delivery handbook for optimizing your way of working (pp. 109-124). Project Management Institute.
