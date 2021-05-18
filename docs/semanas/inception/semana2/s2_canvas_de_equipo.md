@@ -18,7 +18,8 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-Realizar una reunión con los miembros del equipo para diligenciar el Canvas de acuerdo con las instrucciones del formato proporcionado.
+* Realizar una reunión con los miembros del equipo para diligenciar el Canvas de acuerdo con las instrucciones del formato proporcionado.
+* Cargar el Canvas de equipo en la wiki del proyecto.
 
 ### Recursos 
 
@@ -28,8 +29,7 @@ Realizar una reunión con los miembros del equipo para diligenciar el Canvas de 
 ### Entregables
 
 ---
-* Canvas del equipo en Miro
-* Enlace al canvas de equipo en la Wiki del proyecto
+* URL a la wiki del proyecto en GitHub.
 
 ### Criterios de evaluación
 
