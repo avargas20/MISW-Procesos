@@ -35,7 +35,7 @@ La aplicación se encuentra desarrollada en Python, usando el framework Flask, A
 4. Cuando ya tengan un equipo formado, en el mismo archivo CarectizaciónEstudiantes, marquen las filas de cada uno con **Ya tiene equipo** y en la hoja **Equipos** agreguen la información de su equipo.
 5. Hacer una reunión con sus compañeros de equipo con el propósito de empezar a conocerse. Como primera parte de esta reunión compartan las respuestas que dieron en el test "Déjanos conocerte".
 
-### Prácticas y estragegias seleccionadas para la conformación del equipo
+### Prácticas y estrategias aplicadas de DAD
 ---
 
 El marco DAD proporciona diferentes lineamientos que nos permiten identificar cómo abordar cada uno de los objetivos del Inception. En el marco del proyecto del curso se han tenido en cuenta los siguientes elementos y características para la conformación de los equipos:
