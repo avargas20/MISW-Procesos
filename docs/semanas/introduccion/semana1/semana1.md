@@ -27,7 +27,8 @@ La aplicación se encuentra desarrollada en Python, usando el framework Flask, A
 
 ### Instrucciones para conformar el equipo
 ---
-1. En el sistema Tandem **(enlace)** complete los siguientes instrumentos:
+1. Ingrese al sistema Tandem haciendo clic [aquí](https://tandem.uniandes.edu.co/tandem/login/auth).
+2. Complete los siguientes instrumentos:
     * ¿Cómo me veo a mí mismo?
     * Déjanos conocerte
 2. Autocalifique sus habilidades y provea más información importante llenando este formulario **(enlace)**.
