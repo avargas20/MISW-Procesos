@@ -5,15 +5,15 @@
 ## Alistamiento del espacio para documentación y gestión del proyecto
 
 ### Objetivos
-
 ---
-* Estructurar el espacio para la gestión y documentación del proyecto en Jira y la Wiki de GitHub.
+
+Estructurar el espacio para la gestión y documentación del proyecto en Jira y la Wiki de GitHub.
 
 
 ### Pasos previos
 
 ---
-Para realizar esta actividad, se espera que cada integrante del equipo:
+Para realizar esta actividad, se espera que cada miembro del equipo:
 
 * Verifique su acceso al repositorio asignado en Git.
 * Cree una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira).
@@ -33,26 +33,26 @@ una tarjeta de crédito y la disponibilidad de la información registrada se pon
 
 Las actividades que deben realizar como parte del alistamiento son:
 
-* Crear el proyecto en Jira e invitar a los integrantes del equipo (incluya al profesor y tutor del curso)
-* Estructurar el espacio para la documentación del proyecto en la Wiki de GitHub teniendo en cuenta la guía disponible en Recursos
-* Cargar en la Wiki la información de los miembros del equipo 
+* Crear el proyecto en Jira e invitar a los integrantes del equipo (incluya al profesor y tutor del curso).
+* Estructurar el espacio para la documentación del proyecto en la wiki de GitHub teniendo en cuenta la guía disponible en Recursos.
+* Cargar la información de los miembros del equipo en la wiki. 
 
 ### Recursos 
 
 ---
-* [Guía para organización de la documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_organizacion_de_la_documentacion)
-* Tutorial de Jira (*Pendiente*)
+* [Guía para organización de la documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_organizacion_de_la_documentacion).
+* Tutorial de Jira. (*Pendiente*)
 
 ### Entregables
 
 ---
-* URL al espacio del equipo en Jira
-* URL a la Wiki del equipo en GitHub
+* URL al proyecto del equipo en Jira.
+* URL a la wiki del equipo en GitHub.
 
 ### Criterios de evaluación
 
 ---
-* Se evidencia la creación del proyecto en Jira (todos los integrantes del equipo, el profesor y el tutor tienen acceso)
-* Se evidencia en la Wiki la estructuración de la documentación y la información de los integrantes del equipo
+* Se evidencia la creación del proyecto en Jira (todos los integrantes del equipo, el profesor y el tutor tienen acceso).
+* Se evidencia en la wiki la estructuración de la documentación y la información de los integrantes del equipo
 
 
