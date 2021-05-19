@@ -33,8 +33,8 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 ### Entregables 
 
 ---
-* URL al espacio del equipo en Jira.
-* URL al repositorio en GitHub.
+* URL al proyecto del equipo en Jira.
+* URL al repositorio del equipo en GitHub.
 
 ### Criterios de evaluación
 ---
