@@ -25,7 +25,7 @@ Realizar la planeación general del proyecto.
    * Registrar el resultado de la estimación en el PBL en Jira.
 * Cálculo de la velocidad del equipo
    * Utilizando la técnica de *Planning Poker* estimar en horas las actividades para desarrollar la HUB (se deben tener en cuenta todas las actividades).
-   * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en la Wiki.
+   * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en la wiki.
 * Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance del sprint
    * Proponer un listado de historias de usuario candidatas para ser incluidas en el primer sprint y cargarlo en la Wiki.
 
@@ -40,8 +40,8 @@ Realizar la planeación general del proyecto.
 ### Entregables
 
 ---
+* URL al proyecto del equipo en Jira.
 * URL a la wiki del proyecto en GitHub.
-* URL al espacio del equipo en Jira.
 
 ### Criterios de evaluación
 
