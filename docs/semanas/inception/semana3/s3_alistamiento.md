@@ -39,4 +39,4 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 ### Criterios de evaluación
 ---
 
-* Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado.
+Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado.
