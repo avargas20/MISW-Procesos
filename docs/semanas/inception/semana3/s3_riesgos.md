@@ -24,7 +24,7 @@
 ### Entregables
 
 ---
-URL a la wiki del proyecto.
+URL a la wiki del proyecto en GitHub.
 
 
 ### Criterios de evaluación
