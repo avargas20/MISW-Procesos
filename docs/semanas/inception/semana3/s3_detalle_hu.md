@@ -47,7 +47,7 @@ Distribuir en equipo las historias priorizadas por el PO.
 
 ---
 
-URL al espacio del equipo en Jira.
+URL al proyecto del equipo en Jira.
 
 ### Criterios de evaluación
 
