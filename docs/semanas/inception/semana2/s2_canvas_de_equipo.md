@@ -27,12 +27,12 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 [Formato Canvas de equipo](https://miro.com/app/board/o9J_lQEeUlQ=/)
 
 ### Entregables
-
 ---
-* URL a la wiki del proyecto en GitHub.
+
+URL a la wiki del proyecto en GitHub.
 
 ### Criterios de evaluación
-
 ---
-* El canvas de equipo, completamente diligenciado, permite identificar los acuerdos del equipo para el logro de un propósito común.
+
+El canvas de equipo, completamente diligenciado, permite identificar los acuerdos del equipo para el logro de un propósito común.
 
