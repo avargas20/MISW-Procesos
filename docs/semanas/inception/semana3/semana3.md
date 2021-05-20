@@ -20,7 +20,7 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto del curs
 | [Detalle de historias de usuario](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_detalle_hu)  |
 | [Estrategia de arquitectura](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_arquitectura)  |
 | [Estimación y planeación](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planeacion)|
-| [Definición de riesgos](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_riesgos)|
+| [Identificación de riesgos](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_riesgos)|
 
 ### Prácticas y estrategias aplicadas de DAD
 ---
