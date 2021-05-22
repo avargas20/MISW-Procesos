@@ -2,14 +2,17 @@
 ### Objetivos
 ---
 
-* Realizar la planeación del sprint
-* Iniciar el primer sprint de desarrollo teniendo en cuenta las prácticas vistas en cursos anteriores
-* Hacer seguimiento al avance de actividades del sprint mediante Daily meetings y tableros Kanban
+Los objetivos para esta semana, en el marco del desarrollo del proyecto del curso son:
+
+* Realizar la planeación del sprint para lograr un entendimiento común del equipo sobre las actividades que se van a desarrollar.
+* Iniciar la ejecución de las tareas de desarrollo propuestas para el primer sprint.
+* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y la actualización del tablero Kanban.
+* Refinar las historias de usuario (HU) del Product backlog (PBL).
  
 ### Resumen de las actividades
 
 | Actividades   |
 |---------------|
-|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_planeacion_sprint)  |
-|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_desarrollo)|
-|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_seguimiento)|
+|[Sprint 1. Planeación](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_planeacion_sprint)  |
+|[Sprint 1. Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_desarrollo)|
+|[Sprint 1. *Grooming* de historias](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_grooming)|
