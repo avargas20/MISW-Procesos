@@ -17,7 +17,7 @@
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Revisar la distribución de historias de usuario (HU) en el tablero del sprint.
-* Desarrollar cada una de las historias a su cargo implementando TDD y pair programming (en las HU más complejas).
+* Desarrollar cada una de las historias a su cargo implementando *Test-driven development* (TDD) y pair programming (en las HU más complejas).
   * Para dejar evidencia del uso de TDD, se debe realizar commit al repositorio al definir las pruebas, al implementar el código y al realizar *recfactoring* del código.
   * Implementar la generación de datos aleatorios en las pruebas unitarias.
 * Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
