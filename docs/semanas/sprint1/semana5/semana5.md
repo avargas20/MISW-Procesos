@@ -5,9 +5,9 @@
 
 * Realizar las actividades de desarrollo correspondientes a la segunda semana del sprint.
 * Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y la actualización del tablero Kanban.
+* Refinar las historias de usuario (HU) del product backlog (PBL) en una sesión de *Grooming* con el Product Owner (PO).
 * Cerrar el primer sprint de desarrollo y preparar la demostración para la *Sprint review*.
 * Realizar la Retrospectiva del sprint a partir del análisis de las lecciones aprendidas en las dimensiones de equipo, proceso y producto.
-* Refinar las historias de usuario (HU) del product backlog (PBL) en una sesión de *Grooming* con el Product Owner (PO).
  
 ### Resumen de las actividades
 ---
