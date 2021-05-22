@@ -31,17 +31,17 @@
 ### Recursos 
 ---
 
-* [Instructivo para conducir sesiones de *Daily meeting*](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_daily_meeting)
+[Instructivo para conducir sesiones de *Daily meeting*](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_daily_meeting)
 
 
 ### Entregables
-
 ---
-* URL del repositorio del equipo en GitHub.
+
+URL del repositorio del equipo en GitHub.
 
 ### Criterios de evaluación
-
 ---
+
 * Todas las pruebas unitarias funcionan correctamente.
 * Se evidencia en el historial del respositorio el desarrollo usando TDD.
 * El resultado de la integración continua es exitoso.
