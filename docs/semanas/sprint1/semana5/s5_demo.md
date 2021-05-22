@@ -19,7 +19,7 @@ Para realizar la demostración, el equipo debe:
 
   * Parar las actividades de desarrollo antes de la demostración (la versión entregada en el sprint 1 **NO** debe tener modificaciones después de este día).
   * Crear el ambiente de pruebas en Heroku y desplegar la última versión del producto (verificar que el ambiente se encuentre estable y la aplicación sea totalmente funcional).
-  * Preparar la presentación para mostrar de forma eficiente el incremento terminado durante el sprint al PO. Se recomienda revisar las recomendaciones disponibles en la sección de Recursos.
+  * Preparar la presentación para mostrar de forma eficiente el incremento terminado durante el sprint al *Product Owner* (PO). Se recomienda revisar las recomendaciones disponibles en la sección de Recursos.
 
 
 ### Recursos
