@@ -7,7 +7,7 @@
 ### Objetivos
 ---
 
-Preparar la demostración de las historias de usuario (HU) completadas al *Product Owner* (PO).
+Preparar la demostración de las historias de usuario (HU) completadas como incremento de producto.
 
 
 ### Descripción actividad
