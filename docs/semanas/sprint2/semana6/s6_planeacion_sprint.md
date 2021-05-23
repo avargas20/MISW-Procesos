@@ -7,13 +7,13 @@
 ### Objetivos
 ---
 
-Realizar la planeación del sprint para lograr un entendimiento común de los miembros del equipo sobre las actividades que se van a desarrollar.
+Realizar la planeación del sprint para lograr un entendimiento común de los miembros del equipo sobre las historias a desarrollar.
 
 
 ### Pasos previos
 ---
 
-Programar la reunión de priorización con el *Product Owner* (PO) para definir las historias de usuario (HU) a desarrollar en el segundo sprint.
+Programar la reunión de priorización con el *Product Owner* (PO) para definir las historias de usuario (HU) del segundo sprint.
 
 
 ### Descripción actividad
