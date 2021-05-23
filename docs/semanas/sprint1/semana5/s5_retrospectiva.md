@@ -16,7 +16,7 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Realizar la retrospectiva del sprint utilizando la técnica de [Starfish](https://miro.com/app/board/o9J_lO1al0I=/).
+* Realizar la retrospectiva del sprint utilizando la técnica de Starfish (se recomienda tener en cuenta el formato disponible en la sección de Recursos).
 * Consignar el resultado en una presentación que contenga:
   * Imagen del starfish.
   * Compromisos acordados.
