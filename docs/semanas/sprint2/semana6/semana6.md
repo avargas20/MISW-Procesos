@@ -15,4 +15,4 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto del curs
 | Actividades   |
 |---------------|
 |[Sprint 2. Planeación](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/s6_planeacion_sprint)  |
-|[Sprint 1. Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/s6_desarrollo)|
+|[Sprint 2. Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/s6_desarrollo)|
