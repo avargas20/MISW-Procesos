@@ -7,7 +7,7 @@
 ### Objetivos
 ---
 
-Preparar la demostración de las historias de usuario (HU) completadas como incremento de producto.
+Preparar la demostración de las historias de usuario (HU) completadas como incremento de producto durante el sprint.
 
 
 ### Descripción actividad
