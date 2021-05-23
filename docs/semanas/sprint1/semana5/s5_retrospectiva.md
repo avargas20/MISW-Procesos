@@ -44,5 +44,5 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
 ### Criterios de evaluación
 
 ---
-La presentación evidencia la realización de la retrospectiva en equipo.
+La presentación evidencia la realización de la retrospectiva en equipo y la definición de compromisos y acciones de mejora.
 
