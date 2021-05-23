@@ -30,11 +30,17 @@
   * Elaborar una presentación donde se expliquen los bad smells identificados y muestren el antes y el después del código corregido.
   * Cargar la presentación en la wiki del proyecto.
 
+* Seguimiento:
+  * Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily meetings* (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario).
+  * Realizar las *Daily meetings* en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos.
+  * Cargar las evidencias de la realización de *Daily meetings* en la wiki del proyecto.
+
+
 ### Recursos
-
 ---
-* [Refactoring: Improving the Design of Existing Code, Martin Fowler](https://moodleinstitucional.uniandes.edu.co/pluginfile.php/45336/mod_label/intro/RefactoringCapitulo1-3.pdf)
 
+* [Refactoring: Improving the Design of Existing Code, Martin Fowler](https://moodleinstitucional.uniandes.edu.co/pluginfile.php/45336/mod_label/intro/RefactoringCapitulo1-3.pdf)
+* [Instructivo para conducir sesiones de *Daily meeting*](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_daily_meeting)
 
 ### Entregables
 
