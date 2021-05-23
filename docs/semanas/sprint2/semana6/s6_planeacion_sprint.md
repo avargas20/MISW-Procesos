@@ -26,7 +26,7 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
   * Detallar las solicitudes de mejora realizadas durante la demostración y finalizar el detalle de las HU del *Product Backlog* PBL (si aplica).
 * Estimación y cálculo de velocidad:
   * Revisar y definir las actividades de la historia de usuario base (HUB) teniendo en cuenta la experiencia del sprint anterior y las decisiones tomadas en la retrospectiva.
-  * Estimar las HU del PBL en PHU.
+  * Estimar las HU del PBL en PHU utilizando la técnica de *Planning Poker*.
   * Estimar los tiempos de las actividades de la HUB.
   * Realizar el cálculo de la velocidad del equipo.
   * Cargar el cálculo de velocidad en la wiki y actualizar la estimación de las HU en Jira.
