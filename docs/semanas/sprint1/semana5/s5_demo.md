@@ -19,16 +19,28 @@ Para realizar la demostración, el equipo debe:
 
   * Parar las actividades de desarrollo antes de la demostración (la versión entregada en el sprint 1 **NO** debe tener modificaciones después de este día).
   * Crear el ambiente de pruebas en Heroku y desplegar la última versión del producto (verificar que el ambiente se encuentre estable y la aplicación sea totalmente funcional).
-  * Preparar la presentación para mostrar de forma eficiente el incremento terminado durante el sprint al *Product Owner* (PO). Se recomienda revisar las recomendaciones disponibles en la sección de Recursos.
+  * Preparar la presentación para mostrar de forma eficiente el incremento terminado durante el sprint al *Product Owner* (PO). Se recomienda tener en cuenta las recomendaciones abajo descritas.
+
+### Recomendaciones
+---
+
+* Para la presentación:
+
+  * Todas las HU presentadas deben cumplir con la definición de terminado (DoD, por sus siglas en ingles).
+  * Durante la reunión, el PO puede realizar cualquier comentario u observación sobre el software. Si se detectan elementos que no se encuentran terminados o que no cumplen las expectativas deben incluirse en el *Product Backlog* (PBL).
+
+* Para la entrega:
+
+  * Cuando la aplicación no es intuitiva se recomienda colocar las rutas para probar las HU.
+  * Entregar la aplicación con datos precargados relacionados principalmente con historias de listar.
+  * Revisar la coherencia entre lo configurado en Jira y lo escrito en la wiki.
+  * Al realizar las entregas colocar los datos de prueba requeridos cuando se necesite autenticación.
 
 
 ### Recursos
 
 ---
-
-* Tutorial Heroku (*Pendiente*).
-* [Recomendaciones para la entrega](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_recomendaciones).
-* [Recomendaciones para la presentación](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_recomendaciones_demo).
+Tutorial Heroku (*Pendiente*).
 
 
 ### Entregables
