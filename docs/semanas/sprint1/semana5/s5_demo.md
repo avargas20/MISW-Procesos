@@ -17,7 +17,7 @@ Preparar la demostración de las historias de usuario (HU) completadas como incr
 
 Para realizar la demostración, el equipo debe:
 
-  * Parar las actividades de desarrollo antes (la versión entregada en el sprint 1 **NO** debe tener modificaciones después de este día).
+  * Parar las actividades de desarrollo antes (la versión entregada en el sprint no debe tener modificaciones después de este día).
   * Crear el ambiente de pruebas en Heroku y desplegar la última versión del producto (verificar que el ambiente se encuentre estable y la aplicación sea totalmente funcional).
   * Preparar la presentación para mostrar de forma eficiente el incremento terminado durante el sprint al *Product Owner* (PO). Se recomienda tener en cuenta las recomendaciones abajo descritas.
 
