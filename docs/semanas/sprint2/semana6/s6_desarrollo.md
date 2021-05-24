@@ -24,16 +24,16 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
+* Seguimiento:
+  * Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily meetings* (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario).
+  * Realizar las *Daily meetings* en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos.
+  * Cargar las evidencias de la realización de *Daily meetings* en la wiki del proyecto.
+
 * BadSmells:
   * Realizar la lectura del capítulo 3 del libro [Refactoring: Improving the Design of Existing Code, Martin Fowler](https://moodleinstitucional.uniandes.edu.co/pluginfile.php/45336/mod_label/intro/RefactoringCapitulo1-3.pdf).
   * Identificar al menos 3 bad smells en el código de la aplicación y corregirlos.
   * Elaborar una presentación donde se expliquen los bad smells identificados y muestren el antes y el después del código corregido.
   * Cargar la presentación en la wiki del proyecto.
-
-* Seguimiento:
-  * Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily meetings* (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario).
-  * Realizar las *Daily meetings* en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos.
-  * Cargar las evidencias de la realización de *Daily meetings* en la wiki del proyecto.
 
 
 ### Recursos
