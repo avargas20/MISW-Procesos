@@ -26,15 +26,14 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 ### Recursos 
 
 ---
-* Instrucciones de instalación del ambiente desde cero *(Pendiente)*.
+* Instrucciones de instalación del ambiente de desarrollo *(Pendiente)*.
 * [Formato Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
 
 
 ### Entregables 
 
 ---
-* URL al proyecto del equipo en Jira.
-* URL al repositorio del equipo en GitHub.
+* Flujo de trabajo acordado en la Wiki del proyecto.
 
 ### Criterios de evaluación
 ---
