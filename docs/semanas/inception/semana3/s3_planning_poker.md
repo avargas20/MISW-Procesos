@@ -17,7 +17,7 @@ El *Planning Poker* es una técnica colaborativa para estimar historias de usuar
 
 * Realizar una sesión sincrónica para llevar a cabo la actividad.
 * Todos los miembros del equipo deben participar en la sesión.
-* Si la sesión se realiza de forma virtual, se sugiere usar el sitio https://www.planningpoker.com/ (o cualquiera de las plataformas gratuitas disponibles en Internet para realizar sesiones de *Planning Poker*).  Cada miembro del equipo debe crear una cuenta. El *Scrum Master* crea el juego, carga las historias de usuario e invita a los compañeros de equipo al juego. Se recomienda usar las opciones de configuración por defecto que se proponen.
+* Como la sesión se realiza de forma virtual, se sugiere usar el sitio https://www.planningpoker.com/ (o cualquiera de las plataformas gratuitas disponibles en Internet para realizar sesiones de *Planning Poker*).  Cada miembro del equipo debe crear una cuenta. El *Scrum Master* crea el juego, carga las historias de usuario e invita a los compañeros de equipo al juego. Se recomienda usar las opciones de configuración por defecto que se proponen.
 * Es importante tener claro que la unidad utilizada para realizar la estimación son puntos de historia de usuario (PHU).
 
 ### Instrucciones
