@@ -13,7 +13,7 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 
 ---
 * El *Product Backlog* se encuentra establecido y priorizado.
-* Las Histurias de usuario del tope del *Product Backlog* se encuentran completamente detalladas.
+* Las historias de usuario del tope del *Product Backlog* se encuentran completamente detalladas.
 * El equipo comprende completamente las historias de usuario del tope del *Product backlog*.
 * El equipo ha revisado los videos de Planeación de la fase de incio y de Cálculo de velocidad
 
