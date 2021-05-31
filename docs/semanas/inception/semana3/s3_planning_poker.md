@@ -30,4 +30,4 @@ El *Planning Poker* es una técnica colaborativa para estimar historias de usuar
 ### Recursos 
 
 ---
-* [Agile Estimating and Planning: Planning Poker (Mike cohn)](https://www.youtube.com/watch?v=gE7srp2BzoM)
+* [Agile Estimating and Planning: Planning Poker (Mike Cohn)](https://www.youtube.com/watch?v=gE7srp2BzoM)
