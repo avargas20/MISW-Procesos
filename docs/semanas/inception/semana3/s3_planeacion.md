@@ -48,7 +48,7 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 ### Entregables
 
 ---
-* Historias de usuario del *Product backlog* se encuentran estimadas en JIRA.
+* Historias de usuario del PBL se encuentran estimadas en JIRA.
 * Formato de velocidad diligenciado en la Wiki del proyecto.
 * Sprint 1 se ha creado en JIRA y contiene las Historias de usuario seleccionadas y aprobadas por el dueño de producto para el sprint.
 
