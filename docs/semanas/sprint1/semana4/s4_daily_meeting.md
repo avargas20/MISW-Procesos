@@ -25,8 +25,8 @@ El *Daily Meeting* es una reunión diaria en la que el equipo se sincroniza, ins
 * Actualizar las actividades en el tablero del proyecto a medida que se responde cada pregunta: 
   *  Se actualiza el tiempo de ejecución de la actividad.
   *  Si la tarea se finalizó se mueve a la columna Terminado.
-  *  Si la tarea no se ha terminado se deja en la columna en proceso.
-  *  Si la actividad va a comenzar a ejecturse se mueve a la columna en proceso.
+  *  Si la tarea no se ha terminado se deja en la columna En proceso.
+  *  Si la actividad va a comenzar a ejectarse se mueve a la columna En proceso.
 
 * Verificar en la columna En proceso que todos los integrantes del equipo tienen asignadas tareas de acuerdo a las horas de dedicación esperadas para el proyecto.
 
