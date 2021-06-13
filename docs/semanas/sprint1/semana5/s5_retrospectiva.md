@@ -7,7 +7,8 @@
 ### Objetivos
 
 ---
-Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo, proceso y producto.
+* Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo, proceso y producto.
+* Definir las acciones de mejora y compromisos para el siguiente sprint.
 
 
 ### Descripción actividad
@@ -16,6 +17,10 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
+* Recoger los datos del sprint y analizarlos:
+  * HU teminadas y no terminadas.
+  * Datos de tiempos estimados vs ejecutados por historia.
+  * Burndown chart. 
 * Realizar la retrospectiva del sprint utilizando la técnica de Starfish (se recomienda tener en cuenta el formato disponible en la sección de Recursos).
 * Consignar el resultado en una presentación que contenga:
   * Imagen del starfish.
@@ -26,7 +31,7 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
     * Datos de tiempos estimados vs ejecutados por historia.
     * Burndown chart.
   * Lecciones aprendidas.
-* Cargar los resultados obtenidos en la wiki del proyecto.
+* Colocar en la wiki del proyecto la presentación.
 
 ### Recursos
 
