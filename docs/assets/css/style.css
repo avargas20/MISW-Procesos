@@ -336,7 +336,6 @@ table.menu td {
 table.menu td a {
   display: flex;
   justify-content: center;
-  padding: 10px 15px;
 }
 
 table.menu td.active {
