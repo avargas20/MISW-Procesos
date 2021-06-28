@@ -330,13 +330,16 @@ table td a {
 
 table.menu td {
   padding: 0px 0px;
+  text-align: center;
 }
 
 table.menu td a {
   display: flex;
   justify-content: center;
+  padding: 10px 15px;
 }
 
 table.menu td.active {
   background-color: #fbf1bb;
+  padding: 10px 15px;
 }
