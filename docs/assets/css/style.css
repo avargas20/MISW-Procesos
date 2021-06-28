@@ -324,16 +324,15 @@ table tr:nth-child(odd) {
   background-color: #fbc46526;
 }
 
+.menu table td {
+  padding: 0px 0px;
+}
+
 table td a {
   display: flex;
 }
 
 .menu table td a {
-  display: flex;
-  justify-content: center;
-}
-
-table.menu td a {
   display: flex;
   justify-content: center;
 }
