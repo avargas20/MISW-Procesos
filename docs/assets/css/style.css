@@ -324,19 +324,19 @@ table tr:nth-child(odd) {
   background-color: #fbc46526;
 }
 
-.menu table td {
-  padding: 0px 0px;
-}
-
 table td a {
   display: flex;
 }
 
-.menu table td a {
+table.menu td {
+  padding: 0px 0px;
+}
+
+table.menu td a {
   display: flex;
   justify-content: center;
 }
 
-table td a.active {
+table.menu td.active {
   background-color: #fbf1bb;
 }
