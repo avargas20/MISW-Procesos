@@ -330,6 +330,7 @@ table td a {
 
 table.menu td {
   padding: 0px 0px;
+  text-align: center;
 }
 
 table.menu td a {
